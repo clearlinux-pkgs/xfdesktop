@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.12.3
-Release  : 8
+Release  : 9
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Summary  : No detailed summary available
@@ -22,6 +22,7 @@ BuildRequires : pkgconfig(libwnck-1.0)
 BuildRequires : pkgconfig(libxfce4ui-1)
 BuildRequires : pkgconfig(libxfconf-0)
 BuildRequires : pkgconfig(sm)
+BuildRequires : pkgconfig(thunarx-2)
 BuildRequires : sed
 Patch1: 0001-Set-default-wallpaper.patch
 
@@ -75,7 +76,7 @@ locales components for the xfdesktop package.
 %patch1 -p1
 
 %build
-%configure --disable-static
+%configure --disable-static --enable-thunarx --enable-file-icons --enable-desktop-icons
 make V=1  %{?_smp_mflags}
 
 %check
