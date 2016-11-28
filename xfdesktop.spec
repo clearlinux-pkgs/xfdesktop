@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.12.3
-Release  : 11
+Release  : 12
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Summary  : No detailed summary available
@@ -15,11 +15,19 @@ Requires: xfdesktop-data
 Requires: xfdesktop-locales
 Requires: xfdesktop-doc
 BuildRequires : intltool
+BuildRequires : pkgconfig(cairo)
+BuildRequires : pkgconfig(dbus-glib-1)
 BuildRequires : pkgconfig(egl)
 BuildRequires : pkgconfig(exo-1)
 BuildRequires : pkgconfig(garcon-1)
+BuildRequires : pkgconfig(gio-2.0)
+BuildRequires : pkgconfig(gmodule-2.0)
+BuildRequires : pkgconfig(gobject-2.0)
+BuildRequires : pkgconfig(gthread-2.0)
+BuildRequires : pkgconfig(gtk+-2.0)
 BuildRequires : pkgconfig(libwnck-1.0)
 BuildRequires : pkgconfig(libxfce4ui-1)
+BuildRequires : pkgconfig(libxfce4util-1.0)
 BuildRequires : pkgconfig(libxfconf-0)
 BuildRequires : pkgconfig(sm)
 BuildRequires : pkgconfig(thunarx-2)
@@ -76,10 +84,16 @@ locales components for the xfdesktop package.
 %patch1 -p1
 
 %build
+export LANG=C
+export CFLAGS="$CFLAGS -Os -ffunction-sections "
+export FCFLAGS="$CFLAGS -Os -ffunction-sections "
+export FFLAGS="$CFLAGS -Os -ffunction-sections "
+export CXXFLAGS="$CXXFLAGS -Os -ffunction-sections "
 %configure --disable-static --enable-thunarx --enable-file-icons --enable-desktop-icons
 make V=1  %{?_smp_mflags}
 
 %check
+export LANG=C
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost
