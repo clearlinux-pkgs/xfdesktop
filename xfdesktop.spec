@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.12.3
-Release  : 12
+Release  : 13
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.12/xfdesktop-4.12.3.tar.bz2
 Summary  : No detailed summary available
