@@ -1,10 +1,2271 @@
-commit 9fb870a3451c829641d917679f26192385b0380e
+commit b0622ab9a7faaa2e7993d2def815d6350603041e
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu May 4 15:15:29 2017 +0300
+
+    fix coverity cid 1292726 Unchecked return value
+
+commit 8701fdf2c1964df7f55c0d60883eb593adb629f7
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu May 4 15:13:25 2017 +0300
+
+    fix coverity cid 1432966 Logically dead code
+
+commit cc0cda0ea88e41f759dd7c0908c91faf8f357e68
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu May 4 15:12:10 2017 +0300
+
+    fix coverity cid 1432967 Evaluation order violation
+
+commit 387f16ad64f9820cc5a68875fbd13b0700fa9344
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu May 4 15:11:04 2017 +0300
+
+    fix coverity cid 1432968 Dereference before null check
+
+commit 5be228d4cc205791f4df52ce6e9e0f2be866eb87
+Author: 玉堂白鹤 <yjwork@qq.com>
+Date:   Tue May 2 12:32:10 2017 +0200
+
+    I18n: Update translation zh_CN (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a21ba7e57f6330dddce35805b40e9f5aff5f13e5
+Author: m4sk1n <m4sk1n@vivaldi.net>
+Date:   Mon May 1 12:31:55 2017 +0200
+
+    I18n: Update translation pl (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d03db5aa898a39e24905345dbf670bcb163043bf
+Author: Саша Петровић <salepetronije@gmail.com>
+Date:   Sun Apr 30 12:32:25 2017 +0200
+
+    I18n: Update translation sr (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 94caa950f0c874fcc639791098af19dc678b12e7
+Author: Apóstolos Papaðimitríu <apostolos.papadimitriu@gmail.com>
+Date:   Sun Apr 30 12:32:24 2017 +0200
+
+    I18n: Update translation el (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit cf4570da6569db21ec6555bcc232c164643e658c
+Author: André Miranda <andre42m@gmail.com>
+Date:   Thu Apr 27 06:31:58 2017 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 381eff32747b619f26777fdc42035be64d43d4bd
+Author: Theppitak Karoonboonyanan <theppitak@gmail.com>
+Date:   Wed Apr 26 18:31:55 2017 +0200
+
+    I18n: Update translation th (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 19fdc8abddbaa411802aa8bf271a551cef5c7ae4
+Author: abuyop <abuyop@gmail.com>
+Date:   Wed Apr 26 18:31:55 2017 +0200
+
+    I18n: Update translation ms (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 253cf5f5b91e6b5c93cc2b586bc3cd6195ea3be8
+Author: Arve Eriksson <031299870@telia.com>
+Date:   Wed Apr 26 12:31:52 2017 +0200
+
+    I18n: Update translation sv (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4d6d2d47da24ce82561c960ec66aee2baa15fe1c
+Author: Tobias Bannert <tobannert@gmail.com>
+Date:   Wed Apr 26 06:31:42 2017 +0200
+
+    I18n: Update translation de (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 70782bad3c854cf4df63ff6cf83b60ac12d78f99
+Author: Aljoša Žagar <anthon.manix@gmail.com>
+Date:   Tue Apr 25 18:33:43 2017 +0200
+
+    I18n: Update translation sl (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit ed5dd152b8895bfdb788745f8b7d88050c645413
+Author: m4sk1n <m4sk1n@vivaldi.net>
+Date:   Tue Apr 25 12:33:46 2017 +0200
+
+    I18n: Update translation pl (99%).
+    
+    225 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9d91edab69d0eb5e676605f4d3a2ceaefb2d32cd
+Author: Edin Veskovic <edin.veskovic@openmailbox.org>
+Date:   Tue Apr 25 12:33:45 2017 +0200
+
+    I18n: Update translation hr (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 586ca1a4cabcde06be1ebb572d39d7018385a34d
+Author: Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+Date:   Tue Apr 25 06:31:52 2017 +0200
+
+    I18n: Update translation kk (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 0ef154c9504958602f5693e64d0683633f208ab8
+Author: Enrico B <enricobe@hotmail.com>
+Date:   Tue Apr 25 00:32:27 2017 +0200
+
+    I18n: Update translation it (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 6bd72952591d8231fe942e732d8cced496b8f428
+Author: Igor <f2404@yandex.ru>
+Date:   Mon Apr 24 18:32:40 2017 +0200
+
+    I18n: Update translation ru (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 2b136812cfeac9094937746defddeec8dc90ec76
+Author: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>
+Date:   Mon Apr 24 18:32:40 2017 +0200
+
+    I18n: Update translation ko (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit dede342dab1a4142aed44b47c2198677fe3112c4
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Mon Apr 24 12:31:51 2017 +0200
+
+    I18n: Update translation nl (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 6c20e8bb0fc71793db4878d14e5fec717f5a44e5
+Author: Kiril Kirilov <cybercop_montana@abv.bg>
+Date:   Mon Apr 24 12:31:51 2017 +0200
+
+    I18n: Update translation bg (100%).
+    
+    226 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8870bb1a43a3017194ab6e90c3795379611cdb57
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Apr 23 15:20:23 2017 +0300
+
+    Add xfce-backdrop-settings.desktop.in back in
+    
+    We need the file to be generated so the xfce transifex bot will
+    see the file and perform translations on it. Add a note in the
+    .gitignore file and clean up the file a little while we're at it.
+
+commit d167fea87e8443f13ef1c220464de182cf742e8b
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Apr 22 11:33:29 2017 +0300
+
+    Tell Gtk what version we're targeting
+    
+    This is awesome. Now Gtk will ignore stuff newer than 3.20 and
+    not nag about it and warn if we use something too new. The previous
+    3.22 ifdef code has been disabled for now.
+
+commit 85b1bdce5ca660681041321b552898a8edadcb89
+Author: Aljoša Žagar <anthon.manix@gmail.com>
+Date:   Fri Apr 21 18:32:17 2017 +0200
+
+    I18n: Update translation sl (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 06aca3ac22f8a16fc2a004236627158b70a47de6
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 21 07:48:00 2017 +0300
+
+    Update min requirements
+    
+    To either match what xfdesktop now requires or what the 4.14
+    roadmap dictates. Additionally update the readme and news so
+    a 4.13 release will be easier.
+
+commit ee7a1fb6a7a6d6bd2c1b8aa44c8676002dff6b1d
+Author: Aljoša Žagar <anthon.manix@gmail.com>
+Date:   Fri Apr 21 12:32:14 2017 +0200
+
+    I18n: Update translation sl (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit dd33e2a23ade7e33775e8d0638ec31bf79b2f2fa
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu Apr 20 10:46:35 2017 +0300
+
+    Clean up the copy/move/link dnd menu
+
+commit a424bbc1653df0142fe3fb6d264d29496805f7c1
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu Apr 20 09:17:31 2017 +0300
+
+    Remove code duplication
+
+commit ec0d9e9f7022ff1145ff27508693baaaec93b9e2
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Thu Apr 20 07:12:01 2017 +0300
+
+    Gtk 3.22 is too new
+    
+    Wrap all the 3.22isms into version checks and drop the Gtk/Gdk
+    required version back to 3.20.
+
+commit 58c9309e5364e2b06d94def4324c2ed7d2b455d5
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 16:47:18 2017 +0300
+
+    Fix double menu popup
+    
+    When right clicking on an icon, the button release event gets
+    called twice and was popping up the menu twice.
+
+commit 13c901da107c806294ca757144b2a68eb53772c8
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 16:47:08 2017 +0300
+
+    trivial: fix warning when no image set
+
+commit 3907aba542aee92630bf1970071fdc20be5f6ad3
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 15:55:28 2017 +0300
+
+    Fix menu popups from command line
+    
+    Fix launching a menu from xfdesktop -M or -W.
+
+commit f4279d5b2ebe5121f7f5948bbf30226d73ade701
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 15:32:45 2017 +0300
+
+    Fix a couple more screen deprecation warnings
+    
+    And remove an unneeded gtk_style_set call.
+
+commit 33a766247421244353a05281eff36966a9265a47
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 14:53:25 2017 +0300
+
+    Remove the style class when finished with them
+
+commit ee153dcd3e1886ea201f223aa4cb81f75bee3112
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 13:51:07 2017 +0300
+
+    Remove unused code
+
+commit cc238940a909b0f833d0e886c325c2842e51e294
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 13:46:16 2017 +0300
+
+    iconview: use the rubberband style class
+
+commit ffb3f82a17ac2e8e13a594408c7c037b0ef72aa2
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 09:21:40 2017 +0300
+
+    Remove unused variable
+
+commit db2337d1ff94830e4b9eb62fb84c40e4e1b7017c
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 09:20:47 2017 +0300
+
+    Colorize the icon using style context
+
+commit 5cb865ace179c43af9e0cf0559b4aced308b4ab3
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 08:54:34 2017 +0300
+
+    iconview: switch to drawing the icon labels with CSS
+    
+    When drawing the icon taxt we dynamically add the
+    GTK_STYLE_CLASS_LABEL and set the label state based on whatever
+    the icon state is (selected, active, or normal).
+
+commit fa1877e2bc876e8e43b8a40328f8c5f670029586
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 08:02:20 2017 +0300
+
+    Add the view class to the icon view
+    
+    And add a CSS Node name of XfdesktopIconView so it doesn't just
+    appear as 'widget'
+
+commit bad92779a728d2565eb8842b503627f1a39e76a9
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 06:56:23 2017 +0300
+
+    xfce-desktop: remove gtk style warnings
+
+commit d7c811e1b593f16a48a6b87f8e5f51e5414f7831
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 06:30:34 2017 +0300
+
+    Add the display name back into thunar dbus calls
+
+commit c36c030dce43bd1d16e134ad8f1b6a3c16bf88dd
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 06:15:07 2017 +0300
+
+    gdk_app_launch_context_new -> gdk_display_get_app_launch_context
+
+commit cdd727598f0e601d6edc88668d40af98b0044b88
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 06:12:35 2017 +0300
+
+    Resolve gdk_screen_make_display_name deprecation warning
+
+commit bce1e19c3898cfbaadc814bcc064778d71165904
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Apr 19 06:11:24 2017 +0300
+
+    gdk_screen_get_number is deprecated
+
+commit 6cde07e2866d49eb6f9c5fe2b6f720f641b68770
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Tue Apr 18 14:16:47 2017 +0300
+
+    Fix make distcheck
+
+commit d94b562d0975b137c645962b33ef424c1bb87902
+Merge: 968c8577 43777f2c
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Apr 16 08:05:12 2017 +0300
+
+    Merge remote-tracking branch 'xfce-user/gtk3-rebased'
+
+commit 43777f2c6914659bb57bebc71f8303932a4580f9
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Apr 16 07:11:53 2017 +0300
+
+    Replace gdk_screen_get_monitor_plug_name
+    
+    Using either gdk_monitor_get_model or a new helper function,
+    xfdesktop_get_monitor_name_from_gtk_widget
+
+commit 62ec4c11ec7d27834064dca0b65a5d5951872a43
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Apr 16 07:02:34 2017 +0300
+
+    xfdesktop-application.c: remove screen count deprecations
+    
+    Since the Gtk3 toolkit doesn't support multi-screen, Zaphod mode,
+    anymore we can assume there's only one desktop now.
+
+commit 496ac65e3873f0c1b40d8282a3d282be52f78dd4
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Apr 15 10:15:19 2017 +0300
+
+    windowlist: replace gdk_screen_get_number
+
+commit 292a330343ffce70a200b687fac11e411202b36e
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Apr 15 09:57:52 2017 +0300
+
+    windowlist: gtk_widget_modify_fg is deprecated
+
+commit 80ecf046792e25ebc5c03065eaa4d960e287671e
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Apr 15 06:43:26 2017 +0300
+
+    gtk_menu_popup -> xfce_gtk_menu_popup_until_mapped
+
+commit 78d841b96ce49e0427ceaa486904a529858da0bd
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Jun 12 10:43:28 2016 +0300
+
+    Port the rest to GDBus
+
+commit 80913e9c073af4883beaaf4f890f57306ac2bf25
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Jun 8 19:36:10 2016 +0300
+
+    Port xfdesktop-thumbnailer to GDBus
+
+commit 4f13190b1970a18b4c090317cee4541bed781600
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 14 15:37:42 2017 +0300
+
+    Migrate from stock icons to named icons for desktop menu
+
+commit 46405e5720984650139ab85928138ac783e3458c
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 14 14:50:46 2017 +0300
+
+    Fix gtk_image_menu warnings
+    
+    Pull in the garcon_gtk_menu_create_menu_item function so we don't
+    reinvent the wheel and generate image menu items ourselves.
+
+commit bfad2b7e42ee8600b701ae87e9789b7a34d89386
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 14 08:32:42 2017 +0300
+
+    iconview: Remove one more gdk_cairo_create
+
+commit e5143a8607f1d55545fec0c39a23a03c437d3a23
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 14 08:27:30 2017 +0300
+
+    iconview: gdk_cairo_create is deprecated
+    
+    Switch to passing the 'draw' cairo reference around and using
+    begin_draw_frame/end_draw_frame for icon painting.
+
+commit 8be8afda57d58d0d096c3123a6f692dad80aa774
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Apr 14 07:47:16 2017 +0300
+
+    Fix another rubber band DnD issue
+    
+    Additionally, turn the TRACE debug messages into DBG so that we
+    don't need all the deprecation warnings fixed before we can see
+    those messages.
+
+commit db9feb42ead981546b004c07624e95a5d9d813d1
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Mar 4 13:01:40 2017 +0300
+
+    gdk_screen_make_display_name is deprecated
+    
+    There's no replacement so we'll just drop the calls to it.
+
+commit 968c85772ca4d8996033317cf945bf3acb20bf04
+Author: Anonymous <noreply@xfce.org>
+Date:   Thu Apr 13 18:33:51 2017 +0200
+
+    I18n: Update translation lt (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a9e88b1b5a0fa5e5d2818ab73956203b5feeb118
+Author: Ramin Najjarbashi <ramin.najarbashi@gmail.com>
+Date:   Wed Mar 22 00:31:35 2017 +0100
+
+    I18n: Update translation fa_IR (99%).
+    
+    222 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 389d0a778ba84d7ab6a083dda0876ad2151cf591
+Author: Xosé <xosecalvo@gmail.com>
+Date:   Tue Mar 21 00:33:05 2017 +0100
+
+    I18n: Update translation gl (99%).
+    
+    222 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit dfd973eef0a7d924987a365f7b9f3f69bdf96956
+Author: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>
+Date:   Sat Mar 18 00:32:57 2017 +0100
+
+    I18n: Update translation ca (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit dd3eb35c64c5ebc94f359fee7709bb64acaef469
+Author: Kevin Brubeck Unhammer <unhammer+dill@mm.st>
+Date:   Sun Mar 12 12:31:51 2017 +0100
+
+    I18n: Update translation nn (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f9986b2bbc8badf304912e4d5f1d9db9b7ac8b48
+Author: Sergey Alyoshin <alyoshin.s@gmail.com>
+Date:   Thu Mar 9 00:31:36 2017 +0100
+
+    I18n: Update translation ru (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c27bc99f13d7c9c0d9725ffae6ba623a97f55c4e
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Sat Mar 4 18:31:40 2017 +0100
+
+    I18n: Update translation nl (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d8c38db4ed226ce81172292d72eb052be0e409e3
+Author: Apóstolos Papaðimitríu <apostolos.papadimitriu@gmail.com>
+Date:   Sat Mar 4 00:32:21 2017 +0100
+
+    I18n: Update translation el (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit ee82a044329b7776ec0eae6e6124e78b3eb9bf37
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Mar 3 10:50:40 2017 +0300
+
+    Settings: Work around GdkScreen deprecations
+    
+    * gdk_screen_get_number always returns 1 now, switch to
+    wnck_screen_get_number or XScreenNumberOfScreen.
+    * gdk_screen_get_monitor_plug_name is gone, switch to
+    gdk_monitor_get_model.
+
+commit 8eb53bcdf6da45a9ca5cd17634ce286c6cb9382c
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Mar 3 09:01:14 2017 +0300
+
+    Trivial: Fix some compiler warnings
+
+commit c58e002bd74bc39063a8cfcdd1afe0db95ea771b
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Mar 3 08:59:06 2017 +0300
+
+    Fix the rubber band when moving icons
+
+commit 1746c0e75fa829822dd798249b1f58dc93455ba4
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Fri Mar 3 07:50:14 2017 +0300
+
+    Fix the rubber band selection on right click
+
+commit 171025ea3e7aa3837da829538c44c48e36d8158b
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Jun 4 14:07:21 2016 +0300
+
+    Migrate to garcon-gtk for the menu
+    
+    garcon-gtk can handle loading and display the application menu, so
+    let's use it. This allows us to share code with the panel and other
+    consumers of garcon.
+
+commit 01b5cd6ff1f459a82a88fc32d5e9487755f719e9
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Jun 8 14:27:39 2016 +0300
+
+    Remove STOCK icons from xfce_message_dialog calls
+
+commit 525877467330d9b7bec1df5963a697e337e1993d
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Jun 8 14:47:37 2016 +0300
+
+    volume icon: Replace STOCK icons in dialogs
+
+commit 69caacf909b08ed71dfff125889889e3df91ca44
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Jun 8 14:58:26 2016 +0300
+
+    file-utils: Convert STOCK icons
+
+commit 99904f0ab334d7245f7ca2474809a1e5df534cd7
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Mar 1 09:44:37 2017 +0300
+
+    gdk_cursor_unref + gtk_icon_info_free -> g_object_unref
+
+commit 54565d98fcb899401d2d9a46e784e8861b87a973
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Mar 1 09:38:25 2017 +0300
+
+    gtk_drag_begin -> gtk_drag_begin_with_coordinates
+
+commit 83805afbb4c894a7ece2a6d0d37c992f71bee0f5
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Mar 1 09:35:49 2017 +0300
+
+    gdk_cursor_new -> gdk_cursor_new_for_display
+
+commit 040cade122b701aae1d1ada3374589d2654794f3
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Mar 1 08:32:12 2017 +0300
+
+    g_error_free -> g_clear_error
+    
+    clear error handles freeing the error message and setting it
+    to NULL if required for us.
+
+commit 8a3d8a47e85a476a3782104ac4c80d897c3dbe45
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Wed Mar 1 08:21:12 2017 +0300
+
+    settings: remove some deprecation warnings
+
+commit caaaddf07bc3235462572cb408ce3bb607f5b880
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Feb 27 11:15:58 2017 +0300
+
+    backdrop: Migrate to cairo for drawing
+    
+    And switch to using GdkRGBA for colors. We will need to migrate
+    from the old color1/color2 settings at some point.
+
+commit 626def6506a87e3b0cefd6bc880acb99f45de3db
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Feb 27 10:09:55 2017 +0300
+
+    Remove unused code
+    
+    xfdesktop_popup_keyboard_grab_available won't be needed anymore.
+    If we need to wait to popup a menu in the future we can use
+    xfce_gtk_menu_popup_until_mapped
+
+commit af75acd3ff83274d04b69e050cb659e81396c6ac
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Feb 27 09:22:00 2017 +0300
+
+    Bump thunarx version to 3
+    
+    This will prevent the gtk2 and 3 symbols at the same time issue
+    and we can fully port things when thunarx-3 appears.
+
+commit 7daaa1b2a5f8cd670638f9f2f2a2f01dc6827fac
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Feb 27 07:45:55 2017 +0300
+
+    Settings: Expand contents of the wallpaper tab.
+
+commit a4dd9ecff2cc65e3450609cc82d9dad3c2b566d1
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Feb 26 18:33:55 2017 +0300
+
+    Drop an auto-generated file
+    
+    We don't need git to track intermediary files generated during
+    compile.
+
+commit 2efee90024e4d024c7fa7c20654b2e0301f4d858
+Author: florian.weigelt <florian.weigelt@mailbox.tu-dresden.de>
+Date:   Wed Feb 1 19:28:10 2017 +0100
+
+    Fix the build
+
+commit 7b76bb74c0b4956007f699507ec9a9c1a704c863
+Author: florian.weigelt <florian.weigelt@mailbox.tu-dresden.de>
+Date:   Wed Feb 1 17:04:07 2017 +0100
+
+    Initial porting to Gtk 3
+
+commit 24e61f6d8759ae9b400fc1be3c1666c79d61b2c9
+Author: ToZ <tony.paulic@gmail.com>
+Date:   Mon Feb 27 09:10:11 2017 +0300
+
+    Add translation string for Trash desktop icon
+    
+    Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
+
+commit ce4956ccfbc628b7db561b73300f9ac842486a4c
+Author: ASL97 <asl97@openmailbox.org>
+Date:   Fri Feb 24 03:24:38 2017 +0800
+
+    Retain icon relative position when moving a group
+    
+    Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
+
+commit c26835100f5aed0632a76a0c8217ba5101530559
+Author: Kukuh Syafaat <syafaatkukuh@gmail.com>
+Date:   Sun Feb 26 12:32:32 2017 +0100
+
+    I18n: Update translation id (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 80703da48e3a60702cfd9cf7918b928c948872cb
+Author: Саша Петровић <salepetronije@gmail.com>
+Date:   Sat Feb 25 18:32:07 2017 +0100
+
+    I18n: Update translation sr (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b28359333a5f864a622db095c5547b212542d5ef
+Author: Pasi Lallinaho <pasi@shimmerproject.org>
+Date:   Thu Feb 2 18:32:49 2017 +0100
+
+    I18n: Update translation fi (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 11847f93d4c81ee7ab5b207f2896c3587cc2494d
+Author: Vahid Nameni <vahidnameni@yahoo.com>
+Date:   Sun Jan 29 18:31:32 2017 +0100
+
+    I18n: Update translation fa_IR (96%).
+    
+    215 translated messages, 8 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9cc4e6057d01b1afa9e50a61c9e9a4ee495e985e
+Author: samson <sambelet@yahoo.com>
+Date:   Wed Jan 25 00:31:39 2017 +0100
+
+    I18n: Update translation am (89%).
+    
+    200 translated messages, 23 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9c4ee59ff473ebf2b4a07996cf05adc9cecc36b9
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon Jan 23 00:34:13 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 7a97b2cb2f2ea17dc04bb6a7b30f9359e10dea7b
+Author: samson <sambelet@yahoo.com>
+Date:   Mon Jan 23 00:34:13 2017 +0100
+
+    I18n: Update translation am (84%).
+    
+    189 translated messages, 34 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a62a1ab93f0cdd85fb6b89d4c868b440dc46d229
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Jan 22 00:35:41 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 40ee5a45ddeca0b79512bfda5aa7f200e5027b77
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Jan 20 18:33:29 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit af76c7fb9cf81b8ead89719d4aa26150f2f73909
+Author: Anonymous <noreply@xfce.org>
+Date:   Thu Jan 19 12:32:45 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8d498493b764f5d80c2fc58fcd3575fce726345f
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Jan 17 18:33:12 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 94cb499703705741279b4f382384a4a60c5e6cfa
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Jan 17 12:32:30 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 3cbfd7f9c725ecbca51860aaf2ba3f52c448a1b8
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon Jan 16 18:34:03 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8c98b190d6c154328934ea835a552eee03a30ea5
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon Jan 16 12:34:15 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit fd569ef551e0d57f37acef8ace2fa641bde1721b
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Jan 14 18:33:53 2017 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 01ef3058396eefa4baaf35b04e9c54cce931c196
+Author: Oukiki Saleh <salehoukiki@gmail.com>
+Date:   Mon Jan 9 18:31:30 2017 +0100
+
+    I18n: Update translation ar (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit bc5b66fd2276fc49e060cb9e6531aada0b301c29
+Author: samson <sambelet@yahoo.com>
+Date:   Thu Dec 29 00:32:15 2016 +0100
+
+    I18n: Update translation am (82%).
+    
+    185 translated messages, 38 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f2fbe3843477b2712a3ae5d366d0a07be1efe6ce
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Dec 18 06:32:46 2016 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b83f3f7686f3d364ec8da0058a8c79bc6543e2f3
+Author: Allan Nordhøy <epost@anotheragency.no>
+Date:   Mon Dec 12 18:32:34 2016 +0100
+
+    I18n: Update translation nb (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 82f8b6e9825f4f2e835ef369ee4784d415b127a4
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Dec 9 06:33:01 2016 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8f185c7e0bd8f09a385916def49fda0179ee3340
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Dec 9 00:32:23 2016 +0100
+
+    I18n: Update translation da (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 30f0047b4e09c4d539fb37d4e4589925d391dbb0
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Mon Dec 5 18:31:31 2016 +0100
+
+    I18n: Update translation ko (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4706ddbc766cbeaa41055dea26f19e5cc1261156
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Sun Nov 20 06:32:38 2016 +0100
+
+    I18n: Update translation ko (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e434a3126b3e1a5aa7f1a1c91744c7df913388a9
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Sat Nov 19 06:31:32 2016 +0100
+
+    I18n: Update translation ko (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 05f0234fa09892eb094a657be87e546545d0401e
+Author: Cédric Valmary <cvalmary@yahoo.fr>
+Date:   Thu Oct 20 00:31:49 2016 +0200
+
+    I18n: Update translation oc (92%).
+    
+    207 translated messages, 16 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 233f3dfe9a73d6f3a63c66478308d2d07cbb0141
+Author: Nuno Miguel <nunomgue@gmail.com>
+Date:   Thu Oct 13 18:32:16 2016 +0200
+
+    I18n: Update translation pt (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit ec6c01a5348d7906ae4b4691141c98d2e4c28340
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Sun Oct 2 12:31:58 2016 +0200
+
+    I18n: Update translation sv (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 2448bae6cc35089917d0e570817e472ab988e441
+Author: Nobuhiro Iwamatsu <iwamatsu@nigauri.org>
+Date:   Wed Sep 28 12:31:43 2016 +0200
+
+    I18n: Update translation ja (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c1458292699e5ee6b70bc081b3e7433720eda20d
+Author: abuyop <abuyop@gmail.com>
+Date:   Sat Sep 24 18:32:36 2016 +0200
+
+    I18n: Update translation ms (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f15dfbdc3497516ed8f65385a1380a5632064b4a
+Author: enolp <enolp@softastur.org>
+Date:   Wed Sep 21 00:31:45 2016 +0200
+
+    I18n: Update translation ast (99%).
+    
+    221 translated messages, 2 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 5e26662cdea7ab12566bf5072e97da22cd6cf10a
+Author: 玉堂白鹤 <yjwork@qq.com>
+Date:   Tue Sep 20 12:32:01 2016 +0200
+
+    I18n: Update translation zh_CN (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 726b34c0b37e778a4983866602cc20cfa4172b99
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Jun 13 15:08:11 2016 +0300
+
+    Settings: Allow directories to be selected (Bug #12832)
+    
+    Gtk 2.24.31 imported some Gtk3 code that breaks directory
+    selection when using a file filter while in directory mode.
+    We need to add directories to the filter for the
+    GtkFileChooser, otherwise you can't select directories
+    while in directory mode...
+    Cherry-picked from:
+    https://git.xfce.org/users/eric/xfdesktop/commit/?h=the-long-road-to-gtk3&id=cc311b61b82b7510a3a6cb0952d3a331e3551e05
+
+commit a45ab438f8d9e978fd2db7cd43c6353db7561690
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Sep 17 00:32:17 2016 +0200
+
+    I18n: Update translation lt (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 539eb372bc0711e4b9aef573d93d63d195658d50
+Author: Tobias Bannert <tobannert@gmail.com>
+Date:   Fri Sep 16 18:32:01 2016 +0200
+
+    I18n: Update translation de (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 2178c1851c0ca419175a45d6aadde3e09d2545cb
+Author: Walter Cheuk <wwycheuk@gmail.com>
+Date:   Tue Sep 13 06:31:58 2016 +0200
+
+    I18n: Update translation zh_TW (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 83bee61f0f8267136c660b7091fa48bc973e395c
+Author: Walter Cheuk <wwycheuk@gmail.com>
+Date:   Tue Sep 13 06:31:58 2016 +0200
+
+    I18n: Update translation zh_HK (93%).
+    
+    209 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 7726ffefd1c2f7bb4cd00ede4958d1e799193314
+Author: Marcin XD <m4sk1n@o2.pl>
+Date:   Thu Sep 8 00:32:16 2016 +0200
+
+    I18n: Update translation pl (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f4578d2e68e8bcdb0343a011948c1934278c2957
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed Sep 7 18:32:39 2016 +0200
+
+    I18n: Update translation lt (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b47e7694b7349c8c4175ca22df09c6e345c94d93
+Author: Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+Date:   Sun Sep 4 18:32:06 2016 +0200
+
+    I18n: Update translation kk (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 6f678c8b07faf7e40d73bf586f635ffa1f542ba1
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Aug 27 18:31:48 2016 +0200
+
+    I18n: Update translation uk (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a177e5c7e3db7bfb10de2c39087ffd051c4c32bd
+Author: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>
+Date:   Tue Aug 23 18:32:35 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c84da5da5614220c5f82dc3bcd8e5e87a3d0ea43
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Mon Aug 22 18:32:09 2016 +0200
+
+    I18n: Update translation ko (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9a841e0cbe2f7674ea93810eb2fd055d7eba2861
+Author: Michael Findlay <translate@cobber-linux.org>
+Date:   Mon Aug 22 06:32:34 2016 +0200
+
+    I18n: Update translation en_AU (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit ed29e2e06a65384fea61018099baa62b1fc14fcd
+Author: Cristian Marchi <cri.penta@gmail.com>
+Date:   Sat Aug 20 00:31:54 2016 +0200
+
+    I18n: Update translation it (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b9372e78a11d82776ebf014b2f13d8374d9ed8d0
+Author: Theppitak Karoonboonyanan <theppitak@gmail.com>
+Date:   Fri Aug 19 18:31:43 2016 +0200
+
+    I18n: Update translation th (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b5b6c369df4bc1a8355660fd201cefeb0620f550
+Author: Igor <f2404@yandex.ru>
+Date:   Wed Aug 17 18:31:33 2016 +0200
+
+    I18n: Update translation ru (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit bbea1aefa4a31b5c01667f59136ea0ad1c545a41
+Author: Necdet Yücel <necdetyucel@gmail.com>
+Date:   Wed Aug 17 00:31:47 2016 +0200
+
+    I18n: Update translation tr (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit efb92464f499bee9d8c3346329cde7c137273cb4
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Wed Aug 17 00:31:47 2016 +0200
+
+    I18n: Update translation nl (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4e7eb3918de827c5aa8aa7777c2bb7665f7dc724
+Author: Lovro Kudelić <lovro.kudelic@outlook.com>
+Date:   Wed Aug 17 00:31:47 2016 +0200
+
+    I18n: Update translation hr (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 541ed1dd8bb35253949457c699776038786c27d3
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Tue Aug 16 12:31:30 2016 +0200
+
+    I18n: Update translation he (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4fbebead8895dbc5cbe929f6c8101b04822bc65b
+Author: Yannick Le Guen <leguen.yannick@gmail.com>
+Date:   Tue Aug 16 12:31:30 2016 +0200
+
+    I18n: Update translation fr (100%).
+    
+    223 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b88672ffcfa0ab55d805bba5a089fb0056fc26a6
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Aug 15 13:53:23 2016 +0300
+
+    Fix Open dialog's title (Bug #12560)
+    
+    xfdesktop-setting's file chooser's title needs to tell the user
+    to select a directory, not a file.
+
+commit 1a1a86f5d69d5937f05726194e781d0ec7a9969a
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Sun Jul 3 18:32:16 2016 +0200
+
+    I18n: Update translation ko (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit fd2b14c6fbbaa283c5bdd92c89d5c7d42a1ed905
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Sat Jul 2 18:31:40 2016 +0200
+
+    I18n: Update translation ko (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 05f97c4e2fb7b6eed522fa069347d759cfec947e
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Sat Jun 18 12:31:38 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 34644ee7dc47319eb9b23446ee9b229b4ada9b82
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Fri Jun 17 12:32:40 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit edabe95c3aaccdd741cf15cc7285e4166873cbfc
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Mon Jun 6 18:32:52 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 1fb269425c2932016747f4bda4016b1d9c472ab1
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Mon Jun 6 06:32:40 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit cd2b32ee64c291a684a5944d702623931dd20097
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Mon Jun 6 00:32:23 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 706339982c9b06f3d98e54c1051c8173c5ab34a1
+Author: Davidmp <medipas@gmail.com>
+Date:   Tue May 17 18:31:34 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f4626570b56e339c0a21937abeb0da6ba6d486aa
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Wed May 4 12:33:08 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 1987f01ee09fe81a4e70360f975dd12cf807e952
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Wed May 4 00:32:45 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 5df45f0e4c28606d4f86917d69a5f6094ef0a01e
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Tue May 3 12:33:08 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit acdb7845910822cb0a1235a740b44df7da70efbb
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Tue May 3 00:34:04 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 43f43472101f7cd79acb8178541d24ebe4c834de
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Mon May 2 18:33:54 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 20c3f40022772eae7450f8ebd0de7f0dca8b6d6f
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Mon May 2 00:37:40 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a3a9c63aa9f33ddcb5712b4b1955e9a6d997955a
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Sun May 1 18:34:35 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b5c42585e9d07efbef015b9ce59557025eabe46b
+Author: Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>
+Date:   Sat Apr 30 12:32:59 2016 +0200
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 11b277ac96b6e8e20dfbddc0b62e54f9aea15997
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Apr 30 00:33:03 2016 +0200
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 436f40c5552f6bfbd9d4d20e4fcdf4c669dd7594
+Author: gyeben <gyonkibendeguz@gmail.com>
+Date:   Tue Mar 29 18:33:37 2016 +0200
+
+    I18n: Update translation hu (99%).
+    
+    221 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e3ecdeaec18304384746e752475831fab70da2fa
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Mon Mar 21 18:33:22 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4cd5caee8c99e519af679b3878adabb37a188e43
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Sun Mar 20 18:32:25 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8cd7e0cec137e2937ff6ea1285428abf815e434f
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Wed Mar 16 18:32:44 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b5abd06ba583fa74ba00ca375393c993b1eef9c2
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Tue Mar 15 18:33:21 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4fe5b4fae84cecd4c77c3856e7aa4c648127b15f
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Tue Mar 15 12:31:33 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 0f7a19972421f0b19ba1b0d8e27e3a3eb0cb397d
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Mar 12 00:31:27 2016 +0100
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 61110e62ab440be87ed643ccb02a65a01a52c877
+Author: Cédric Valmary <cvalmary@yahoo.fr>
+Date:   Fri Mar 11 18:33:41 2016 +0100
+
+    I18n: Update translation oc (90%).
+    
+    202 translated messages, 20 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d607857dc7799c1d5f6a73ad142382d79ee6c1ec
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Fri Mar 11 18:33:41 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 2b131f833caf682bf18d22d43fea01e1c4292261
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Fri Mar 11 12:33:16 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f219db8909a6aae19cad3b1e5b0eeefe287de353
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Wed Mar 9 18:32:04 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e05e038837a52c9d5bcf19a32b3a32c698c91d56
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Tue Mar 8 12:32:22 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 693833d62efd8a7c5b95a68ff4a5ddad8964dba8
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Sun Mar 6 18:33:51 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d1c9667bf5f47cd8f72115a524565e580e825efe
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Sun Mar 6 12:31:49 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e4e5d135be30678a6dba0eee153e09e9ae006fac
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Fri Mar 4 18:33:08 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 017c8edc5e3661b3db91004fa699079849204d85
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed Mar 2 00:33:22 2016 +0100
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 16abab8a9e776e5d5c0d06fb7c479008dae42a65
+Author: Xfce Bot <transifex@xfce.org>
+Date:   Tue Mar 1 00:32:00 2016 +0100
+
+    I18n: Update translation sl (99%).
+    
+    221 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a705d43056decfd60257f1d15377294e427aee34
+Author: samson <sambelet@yahoo.com>
+Date:   Fri Feb 26 18:32:11 2016 +0100
+
+    I18n: Update translation am (82%).
+    
+    183 translated messages, 39 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9fb9793d275e1bd46b0011439d6acbf28cdfdbb4
+Author: samson <sambelet@yahoo.com>
+Date:   Wed Feb 24 00:31:51 2016 +0100
+
+    I18n: Update translation am (79%).
+    
+    177 translated messages, 45 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit bca9ff1b74b7a209ede0af6f4bc8c50016fb9155
+Author: samson <sambelet@yahoo.com>
+Date:   Tue Feb 23 18:31:36 2016 +0100
+
+    I18n: Update translation am (69%).
+    
+    154 translated messages, 68 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 0013a337042d1343edb35d3263a85aa7cd476444
+Author: samson <sambelet@yahoo.com>
+Date:   Tue Feb 23 00:32:29 2016 +0100
+
+    I18n: Update translation am (63%).
+    
+    141 translated messages, 81 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 140c6236324d7a09e5acc0f8ec701befbedfe63b
+Author: Lasse Liehu <larso@gmx.com>
+Date:   Wed Feb 17 00:31:51 2016 +0100
+
+    I18n: Update translation fi (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f41fc40c379cb79cfff4d85e0dbc972c78151bb6
+Author: Apostolos Papadimitriu <apostolos.papadimitriu@gmail.com>
+Date:   Tue Feb 9 00:32:35 2016 +0100
+
+    I18n: Update translation el (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 2ab6ef08509798de14ebe3372229b77d1ef53964
+Author: Apostolos Papadimitriu <apostolos.papadimitriu@gmail.com>
+Date:   Sat Feb 6 18:32:17 2016 +0100
+
+    I18n: Update translation el (97%).
+    
+    216 translated messages, 6 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 99318c8202e91176a4e03a31f9a3f46881e50b66
+Author: Nuno Miguel <nunomgue@gmail.com>
+Date:   Sat Feb 6 00:31:51 2016 +0100
+
+    I18n: Update translation pt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 9949bcb4874bdf354b307aa6f87d59c9c07a36e2
+Author: Apostolos Papadimitriu <apostolos.papadimitriu@gmail.com>
+Date:   Fri Feb 5 00:33:13 2016 +0100
+
+    I18n: Update translation el (83%).
+    
+    185 translated messages, 37 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit b9648a23a5ff9f51862a41802800064fa8d5e34b
+Author: Apostolos Papadimitriu <apostolos.papadimitriu@gmail.com>
+Date:   Thu Feb 4 00:32:32 2016 +0100
+
+    I18n: Update translation el (79%).
+    
+    176 translated messages, 46 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a5aa02402b3cb7e55a63d093d785986688a4da43
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Tue Feb 2 18:31:57 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 600fff5a891b7022afdd555da4e0f63c6492e907
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sat Jan 30 08:22:31 2016 +0300
+
+    Properly handle an image style of None
+
+commit 30da874e6218dc2a044180a1ef14893643077cd6
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Tue Jan 26 04:39:25 2016 +0300
+
+    Prevent a crash in the backdrop loader (Bug #12339)
+    
+    The loader needs to check if the loading has been canceled or has
+    invalid data.
+
+commit 28ac179e0b2fa76205e294a3f00e7720a0729251
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Wed Jan 27 18:31:49 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c93238818dec7c1666102ef3e33e40240ccea317
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Sun Jan 24 05:28:16 2016 +0300
+
+    Use gdk's get static image for animation files
+    
+    This way it will return a reasonable thing to display as a static
+    unanimated image, which might be the first frame, or something
+    more sophisticated.
+    
+    And since it's only a little bit more work, add a hidden property
+    to display animations as a wallpaper, the xfconf property is
+    /backdrop/screen#/MonitorName/Workspace#/backdrop-do-animations
+    such as:
+    /backdrop/screen0/monitoreDP1/workspace1/backdrop-do-animations
+    it's a boolean value and setting it to TRUE turns it on, default
+    is obviously off.
+    
+    Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
+
+commit d85b33bebe80bc26a2747821ea2fb05d400389bc
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Wed Jan 20 16:47:42 2016 +0100
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a7e38588268b8c5663aa2732d49b0edc28053704
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Sat Jan 16 18:32:32 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 50e8df3cbdfc2b9271ac0fe92e50e74d4bc2cf5d
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Sat Jan 16 00:32:28 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4ec990bc0c569665ccdd9f74c8fca732d92777ea
+Author: GenghisKhan <genghiskhan@gmx.ca>
+Date:   Fri Jan 15 00:32:21 2016 +0100
+
+    I18n: Update translation he (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 73e7f713bd1e896c50bf6d692ce3f620988caff6
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed Jan 13 06:34:15 2016 +0100
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d8b570d3d441ee18f25456df908cc255d5b9ff80
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Mon Jan 11 12:31:45 2016 +0100
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f37f1bc7ad599b6927020007858132a9e8e8e073
+Author: Kristján Magnússon <kristjanmagnus@gmail.com>
+Date:   Mon Dec 28 12:31:56 2015 +0100
+
+    I18n: Update translation is (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 309399d53c4d1cc4549b54015177bc7670e291e7
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Dec 27 18:31:37 2015 +0100
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 46edebdf0d736d8948b48925589bf87fd6b0e0a1
+Author: Asier Iturralde Sarasola <asier.iturralde@gmail.com>
+Date:   Wed Dec 16 00:32:15 2015 +0100
+
+    I18n: Update translation eu (82%).
+    
+    184 translated messages, 38 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 88a3e2fc426bb6f6d630f7eeb74fe1d520af8bf8
+Author: Kristján Magnússon <kristjanmagnus@gmail.com>
+Date:   Sun Dec 13 12:32:12 2015 +0100
+
+    I18n: Update translation is (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 79b5e2cc0af9d019751fa9792235ffa5ef0c8b09
+Author: Kristján Magnússon <kristjanmagnus@gmail.com>
+Date:   Fri Dec 11 18:32:55 2015 +0100
+
+    I18n: Update translation is (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d1c2602fb8edc6563caa89782cfbded3cf821372
+Author: Davidmp <medipas@gmail.com>
+Date:   Thu Dec 10 18:31:43 2015 +0100
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d86bbd2c12729ec6a42939bd78d7de8de8d9d354
+Author: Davidmp <medipas@gmail.com>
+Date:   Thu Dec 10 00:31:59 2015 +0100
+
+    I18n: Update translation ca (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 28952b8a47cf996057c4fee6fc13fbc890b262ee
+Author: Davidmp <medipas@gmail.com>
+Date:   Wed Dec 9 18:31:49 2015 +0100
+
+    I18n: Update translation ca (89%).
+    
+    198 translated messages, 24 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e7d1cc43e0f36688ecb6af378b46727402f52d31
+Author: Ivica  Kolić <ikoli@yahoo.com>
+Date:   Fri Dec 4 18:31:34 2015 +0100
+
+    I18n: Update translation hr (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit de68d130ef9b1b06a2c53e9f6004ab0a4bf987e5
+Author: Ivica  Kolić <ikoli@yahoo.com>
+Date:   Thu Dec 3 12:31:30 2015 +0100
+
+    I18n: Update translation hr (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8e4ed1bc9af18d5a5d84ad16e5202287d5c53477
+Author: Behrooz Ramezani <b3hrooz.ram3zani@gmail.com>
+Date:   Tue Dec 1 18:31:30 2015 +0100
+
+    I18n: Update translation fa_IR (95%).
+    
+    213 translated messages, 9 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 49d0fe90dbce226e9b5fffbfa093d69823029657
+Author: Ali Vakilzade <ali.vakilzade@gmail.com>
+Date:   Tue Dec 1 00:31:22 2015 +0100
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 6bf361e51b7ffdb263822b17d5a957907b79ca6d
+Author: Ali Vakilzade <ali.vakilzade@gmail.com>
+Date:   Mon Nov 30 18:31:20 2015 +0100
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8f291bd5dc323d183b2c501cbf8926b1e700f8c1
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Nov 27 06:31:20 2015 +0100
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 41a1c26a185dff3827049d0f8ee697026e36701f
+Author: Davidmp <medipas@gmail.com>
+Date:   Fri Nov 27 00:32:31 2015 +0100
+
+    I18n: Update translation ca (85%).
+    
+    189 translated messages, 33 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 426f215170cb1e78cf108b0e09b80cc43a89f198
+Author: Davidmp <medipas@gmail.com>
+Date:   Thu Nov 26 18:31:23 2015 +0100
+
+    I18n: Update translation ca (71%).
+    
+    158 translated messages, 64 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a344affdb503570f879d0f5210ec10e603fd6d82
+Author: Davidmp <medipas@gmail.com>
+Date:   Tue Nov 24 00:32:05 2015 +0100
+
+    I18n: Update translation ca (66%).
+    
+    148 translated messages, 74 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit d793909d1445e4119e4cd8c51904ecb12b10c438
+Author: Kristján Magnússon <kristjanmagnus@gmail.com>
+Date:   Sun Nov 22 12:31:43 2015 +0100
+
+    I18n: Update translation is (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 885dcc96c1e33255b0b124f7640bcf41bb89e304
+Author: Ali Vakilzade <ali.vakilzade@gmail.com>
+Date:   Fri Nov 20 18:31:27 2015 +0100
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 70756046cb6854e4bc406e9bf58167379ecd6b49
+Author: ramin.najarbashi <ramin.najarbashi@gmail.com>
+Date:   Fri Nov 20 12:31:32 2015 +0100
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 325b377c19c645fad4997c0c946e924fd77211b2
+Author: ramin.najarbashi <ramin.najarbashi@gmail.com>
+Date:   Thu Nov 19 18:31:23 2015 +0100
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f838283ede44b878dba37bb21c9c53e4392ec6e1
+Author: Davidmp <medipas@gmail.com>
+Date:   Thu Nov 19 00:31:43 2015 +0100
+
+    I18n: Update translation ca (66%).
+    
+    147 translated messages, 75 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit f1672f1d3fd2a1bb6bb05b5fe7b3ba8478a592bd
+Author: enolp <enolp@softastur.org>
+Date:   Sun Nov 15 06:34:24 2015 +0100
+
+    I18n: Update translation ast (99%).
+    
+    220 translated messages, 2 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 61ebf3dffc00898d0102e176be6c615b35bf878f
+Author: enolp <enolp@softastur.org>
+Date:   Sun Nov 15 00:32:26 2015 +0100
+
+    I18n: Update translation ast (99%).
+    
+    220 translated messages, 2 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 306fe08825e7df538911b330a61e3d53c417dd44
+Author: Nuno Miguel <nunomgue@gmail.com>
+Date:   Sat Oct 31 18:32:11 2015 +0100
+
+    I18n: Update translation pt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 62886ff6b576d93564bbd0254901f2387d54f1c5
+Author: Dušan Kazik <prescott66@gmail.com>
+Date:   Fri Oct 30 12:33:13 2015 +0100
+
+    I18n: Update translation sk (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 918cbe55a5a0c70ed0816098123342f4937f46a3
+Author: ramin.najarbashi <ramin.najarbashi@gmail.com>
+Date:   Sat Oct 24 12:31:28 2015 +0200
+
+    I18n: Update translation fa_IR (93%).
+    
+    208 translated messages, 14 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 85dc588a46ef8ece0c6b4f9028c2029a2e284c56
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Oct 23 00:33:25 2015 +0200
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 6ee18ec9b732278d96ea68f6213694aa8841da00
+Author: Slavko <linux@slavino.sk>
+Date:   Thu Oct 22 12:33:19 2015 +0200
+
+    I18n: Update translation sk (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 91c5f0565daa56084ad100b55bd274135b7aa80c
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Thu Oct 22 06:31:26 2015 +0200
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a6ccd9afb529e2a6265cd59258c2ab860e834367
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Thu Oct 22 00:31:52 2015 +0200
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit ac7591692647bb877a494dc51ff7dec6bb5c890f
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Fri Oct 9 18:31:56 2015 +0200
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 09ce3eb7f79225366c445e5a6639b9b7d0f1ac4d
+Author: Pasi Lallinaho <pasi@shimmerproject.org>
+Date:   Mon Sep 28 00:32:13 2015 +0200
+
+    I18n: Update translation fi (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit e1cb37eced2645d6b43d699d575ac135a4696403
+Author: Xosé <xosecalvo@gmail.com>
+Date:   Mon Sep 21 00:33:08 2015 +0200
+
+    I18n: Update translation gl (86%).
+    
+    193 translated messages, 29 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 8a63c012b68852a8638e3316e952d2f335b60292
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Sep 20 06:32:37 2015 +0200
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit de43eed18bafb1343cf8c3641eb8461879289ef1
+Author: Anton Toni Agung <vdrive6@gmail.com>
+Date:   Mon Sep 14 06:31:39 2015 +0200
+
+    I18n: Update translation id (93%).
+    
+    207 translated messages, 15 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 79870877296999e8762392e2f1d487707577d730
+Author: Aputsiaĸ Niels Janussen <aj@isit.gl>
+Date:   Sun Aug 30 12:31:22 2015 +0200
+
+    I18n: Update translation da (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 53a03020649483b734b2c70ff2ff90e86d431247
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Aug 25 18:31:21 2015 +0200
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 746bbb78db68b0ed7030b78e0465d0f6e4367622
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon Aug 24 00:31:21 2015 +0200
+
+    I18n: Update translation lt (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 5d22f1a65ca832cd7b7962ab395b4e1d8cb7305b
+Author: enolp <enolp@softastur.org>
+Date:   Tue Aug 11 00:31:44 2015 +0200
+
+    I18n: Update translation ast (99%).
+    
+    220 translated messages, 2 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit a084f2f782ad12ca6923a84b702ef1aeac28a5a7
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Aug 10 17:52:55 2015 +0300
+
+    Don't redraw the icons on focus change events (Bug #12071)
+
+commit 61729c716d9a46ca56f43be2e52c9bdff7e227da
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Aug 10 17:50:53 2015 +0300
+
+    Ignore gdk_pixbuf_from_pixdata being deprecated
+
+commit 25124215bf78ce2c66491700ccb9e43525980cd2
+Author: Eric Koegel <eric.koegel@gmail.com>
+Date:   Mon Aug 10 17:33:35 2015 +0300
+
+    Don't try to divide by 0 (Bug #12115)
+
+commit 710edd7e453481a5259221613209786245dbda0f
+Author: عبدالله رضوان <abbodmar@gmail.com>
+Date:   Sat Aug 8 00:32:17 2015 +0200
+
+    I18n: Update translation ar (98%).
+    
+    218 translated messages, 4 untranslated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit df57b1c81a05cafb5095739f45841af343d7f179
+Author: Kiril Kirilov <cybercop_montana@abv.bg>
+Date:   Fri Jul 31 18:31:24 2015 +0200
+
+    I18n: Update translation bg (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 17f7bec1c9c6a733783374dbddc011953b7e3f9b
+Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
+Date:   Mon Jul 20 00:36:31 2015 +0200
+
+    I18n: Update translation sv (100%).
+    
+    222 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c0a890316472891260ffda4847f8c2b409dc52f2
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sun Jun 28 08:18:26 2015 +0300
 
     trivial: fix signed/unsigned comparison
 
-commit e222c6f0535113997a7f5d9cc7cc5062733a0aa1
+commit da068958d30e702895de28405711b63efadb57ae
 Author: Andreas Müller <schnitzeltony@googlemail.com>
 Date:   Thu Jun 25 13:08:29 2015 +0200
 
@@ -20,7 +2281,7 @@ Date:   Thu Jun 25 13:08:29 2015 +0200
     Signed-off-by: Andreas Müller <schnitzeltony@googlemail.com>
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 3189f478664a97e0d908b14703ead6274b932267
+commit 7fa25305184788c2f4a67c674e79bd372cbb3422
 Author: Anonymous <noreply@xfce.org>
 Date:   Wed Jun 24 18:33:21 2015 +0200
 
@@ -30,7 +2291,7 @@ Date:   Wed Jun 24 18:33:21 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 937971c1ec6a93d0abdf6742e6f501edb31b7d69
+commit b4adf794ef987897065a686d6da1f126f0f6f7a3
 Author: Manolo Díaz <diaz.manolo@gmail.com>
 Date:   Mon Jun 22 18:32:06 2015 +0200
 
@@ -40,7 +2301,7 @@ Date:   Mon Jun 22 18:32:06 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit c4be57fab72600f55d44a4ff5d277b76fdf9a4b8
+commit 6da71e3771f7e7dad276d4ca78014d0d1695f788
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sun Jun 21 18:12:52 2015 +0300
 
@@ -48,7 +2309,7 @@ Date:   Sun Jun 21 18:12:52 2015 +0300
     
     Use an idle callback rather than threads for the wallpaper images.
 
-commit c2c53a7fc4a6ca11967d4226df38545642c33c66
+commit 8c0e31ac3324d3f205b1112a8e367ad8dfed10b1
 Author: Michael Findlay <keltoiboy@gmail.com>
 Date:   Thu Jun 11 12:32:45 2015 +0200
 
@@ -58,7 +2319,7 @@ Date:   Thu Jun 11 12:32:45 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 9dcb530d18dd2d1874189f4275c0e82dac49f3d9
+commit 00c0509ccc41b82bd4d9178921dfcf1b299b9f88
 Author: Anonymous <noreply@xfce.org>
 Date:   Wed Jun 10 00:32:23 2015 +0200
 
@@ -68,7 +2329,7 @@ Date:   Wed Jun 10 00:32:23 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit b61ecc7205a9dbb8f33fc15b45dd82dbdd552bbb
+commit e8564f53757fb1c8c0534a81e63d66d6e697313e
 Author: Påvel Nicklasson <pavelnicklasson@bahnhof.se>
 Date:   Wed Jun 3 18:35:26 2015 +0200
 
@@ -78,7 +2339,7 @@ Date:   Wed Jun 3 18:35:26 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 6559503a22d279fb5502f31f9bbb1a1b541bc343
+commit 842971da2ff6f3289dfebb3b4d803397337bed0d
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Mon May 25 07:51:16 2015 +0300
 
@@ -87,7 +2348,7 @@ Date:   Mon May 25 07:51:16 2015 +0300
     If the image used for the wallpaper contains rotation information
     embedded in it, go ahead and rotate the image so it looks better.
 
-commit f2647ce4fa523b24b68ce79ed9064db15ddf8832
+commit cdc1b57a25d24a5a6c81486e4169f232b70f7f83
 Author: Anonymous <noreply@xfce.org>
 Date:   Sat May 16 18:31:51 2015 +0200
 
@@ -97,19 +2358,7 @@ Date:   Sat May 16 18:31:51 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit fa24c43f8f5a626396b3bea14d5510a0d24131ee
-Author: Eric Koegel <eric.koegel@gmail.com>
-Date:   Sun May 17 12:28:45 2015 +0300
-
-    Post release tag bump
-
-commit 6f0553c187fe95bb5ae502e94783c355cb519c39
-Author: Eric Koegel <eric.koegel@gmail.com>
-Date:   Sun May 17 12:25:20 2015 +0300
-
-    Updates for release.
-
-commit 298b8443b2e77b954072af46d30d2e7a6a40d697
+commit 753b67d0e868818cc8d9978154e2fea2fee9206a
 Author: Igor Kushnir <igorkuo@gmail.com>
 Date:   Wed May 13 20:58:04 2015 +0300
 
@@ -117,7 +2366,7 @@ Date:   Wed May 13 20:58:04 2015 +0300
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 7443acbbe5c777b203adb06fec7464b9f3d341d1
+commit 895722e302ad02ee8e40f9e73238465f5ef72d02
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Mon May 11 17:41:03 2015 +0300
 
@@ -127,7 +2376,7 @@ Date:   Mon May 11 17:41:03 2015 +0300
     background, don't bother sorting the image list since it's not
     needed.
 
-commit ed2ebd9b3f22493a8b24e861f4c0541b80f71017
+commit b66e848e4806354b5731def32def11641eba3406
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Mon May 11 14:07:02 2015 +0300
 
@@ -138,13 +2387,13 @@ Date:   Mon May 11 14:07:02 2015 +0300
     the future. This patch loads the list on demand as the wallpaper
     cycling gets toggled.
 
-commit 2d9a8fb55a5d4fd7a87d372c4badcf76e65599d1
+commit 9af8d0317398218d03e0a1686982fc048ea55ead
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Mon May 11 14:06:45 2015 +0300
 
     trivial: fix signed/unsigned comparison warning
 
-commit 355ca9c23017c57f20af072a18250dfdf9a9bbf4
+commit 5650454c6e16389994b4628834c2aeba68551125
 Author: Igor Kushnir <igorkuo@meta.ua>
 Date:   Mon May 11 11:25:26 2015 +0300
 
@@ -152,8 +2401,8 @@ Date:   Mon May 11 11:25:26 2015 +0300
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 7be3fe65e810550fe35d3529bebcd7bd07e9af67
-Author: Ivica Kolić <ikoli@yahoo.com>
+commit 2a391ceafa43c1c349e4d496b8e7170bbb424aff
+Author: Ivica  Kolić <ikoli@yahoo.com>
 Date:   Sun Apr 26 12:31:50 2015 +0200
 
     I18n: Update translation hr (100%).
@@ -162,7 +2411,7 @@ Date:   Sun Apr 26 12:31:50 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 4f3d89cd9837e99761fd2533302c595826c78172
+commit 504cc154da153dcd7d4aeb32e20ded0f34628096
 Author: GenghisKhan <genghiskhan@gmx.ca>
 Date:   Fri Apr 24 18:32:02 2015 +0200
 
@@ -172,7 +2421,7 @@ Date:   Fri Apr 24 18:32:02 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 40362c1db63d24524cf59d73556e9f34c5a8ee04
+commit f5bc3c76540f49705b0729069401e07486239fef
 Author: Kiril Kirilov <cybercop_montana@abv.bg>
 Date:   Fri Apr 10 18:31:52 2015 +0200
 
@@ -182,7 +2431,7 @@ Date:   Fri Apr 10 18:31:52 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 506bfcfc44fe7c176205b274f159d97379c1cf27
+commit a7ab945b6647f0eb4dfdfa58f490b471d8ed4d57
 Author: Anonymous <noreply@xfce.org>
 Date:   Thu Apr 9 00:33:10 2015 +0200
 
@@ -192,19 +2441,19 @@ Date:   Thu Apr 9 00:33:10 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 4a259e3cdbf2267e83765cea73e21dacfa2744c6
+commit 73b441eb3cfa576b571fa8cf8baa06f05b5eb034
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Tue Mar 17 22:38:48 2015 +0100
 
     Allow dragging desktop launchers to the panel (Bug #2794)
 
-commit 3749863500630e6946cc6b4afbe0a5ae30d03c21
+commit 377807bc2e744e03b1f43e9d4e616c3f95c886a3
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Thu Apr 2 16:17:50 2015 +0200
 
     Load emblem-unreadable if necessary
 
-commit f2541ec3a528cdfdbaa33bf9b8fcc2048062c541
+commit 33f185a38f346243debc2608d8a71571e3b18231
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Thu Apr 2 11:17:24 2015 +0200
 
@@ -214,7 +2463,7 @@ Date:   Thu Apr 2 11:17:24 2015 +0200
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 8b90008c7c6f8334d92614564d64438d15477e41
+commit 6b962c208441b0a08da721b30fab370fec5e7845
 Author: Anonymous <noreply@xfce.org>
 Date:   Thu Apr 2 00:32:06 2015 +0200
 
@@ -224,31 +2473,31 @@ Date:   Thu Apr 2 00:32:06 2015 +0200
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 90cf57aa79de3e48a47c8c0485d53bc17d9a2960
+commit d45ac7ee5ec4399b111812470868463ba7986a3d
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Wed Apr 1 20:10:36 2015 +0300
 
     coverity cid 1292723 Uninitialized pointer read
 
-commit f7de9f04527a3ea87885403b17baaa60c88149cd
+commit 7f69a9ebdec6dbfa16d1753f4dcfd8926155ff9c
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Wed Apr 1 20:03:32 2015 +0300
 
     fix coverit cid 1292722 Uninitialized pointer read
 
-commit ceb80ea317832d0e0e524af339fa32742dc20814
+commit 8871f43b5724db02d55ea13ca2af66fc4e6c24ce
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Wed Apr 1 19:54:50 2015 +0300
 
     coverity cid 1292724 Uninitialized pointer read
 
-commit 964471f19338ed0d362124bd78f04f06d3d2814d
+commit 651ec453e3fc9ce86f4c235380240ac04b690301
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Wed Apr 1 19:53:21 2015 +0300
 
     coverity cid 1292725 Dereference before null check
 
-commit 63f4b510d68f64cffadd018831689bb8d736c90e
+commit 4ca153f67d45e34a603cff6c93894c8cebac5205
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Wed Apr 1 12:27:01 2015 +0200
 
@@ -256,7 +2505,7 @@ Date:   Wed Apr 1 12:27:01 2015 +0200
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 7c22f6d80150efc11bcbddf6bec7ce4a652d8bdc
+commit 2b4b785210d4d5e7c2763c45004b8153e0270553
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Sun Mar 29 18:36:47 2015 +0200
 
@@ -264,7 +2513,7 @@ Date:   Sun Mar 29 18:36:47 2015 +0200
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 6ec0392f0a9bc3a3c6dd7e85e0966fa36d5d1b59
+commit af98e9cbad8343c1daff9cdd1b281ae19e257995
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Tue Mar 24 15:22:48 2015 +0100
 
@@ -272,13 +2521,13 @@ Date:   Tue Mar 24 15:22:48 2015 +0100
     
     This change normalizes the size of the icon text box.
 
-commit d76f5b34c0087969a12bf6fbb90ca2fa528f512d
+commit 43676abfcc5cb91785ed76a8fd6c5a78d0e4758b
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Fri Mar 20 15:40:08 2015 +0100
 
     Code formatting
 
-commit 02aa86d01c2e5f4e7905215e461375d299c93ecb
+commit 7794bd7d684218bc354ec914e48905cd279607a1
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Thu Mar 19 21:20:02 2015 +0100
 
@@ -287,7 +2536,7 @@ Date:   Thu Mar 19 21:20:02 2015 +0100
     Create a link instead of a copy after dragging the URL or media content
     from a web browser window. Matches the behavior of Nautilus and Nemo.
 
-commit f82ad9ae3360a61cfe357a4b41a72212f0572e85
+commit 8afa95fde4afb2150e342e5cef2c55c2cbb7528e
 Author: Olivier Duchateau <duchateau.olivier@gmail.com>
 Date:   Thu Mar 26 18:19:40 2015 +0000
 
@@ -295,7 +2544,7 @@ Date:   Thu Mar 26 18:19:40 2015 +0000
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit fcf5d0b9ae13affb34425c9ac15109df7d65c3ef
+commit b091ec3e10b972a7c038c86813ea50334acd877e
 Author: Walter Cheuk <wwycheuk@gmail.com>
 Date:   Fri Mar 27 00:31:52 2015 +0100
 
@@ -305,7 +2554,7 @@ Date:   Fri Mar 27 00:31:52 2015 +0100
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit e192a981137c68d01062ab2a5e300ce65fcc59d9
+commit 57a3e70ed8c958d4a572f78aeefc77e8c9b1f266
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Thu Mar 26 14:49:53 2015 +0300
 
@@ -314,7 +2563,7 @@ Date:   Thu Mar 26 14:49:53 2015 +0300
     We get session management handling from libxfce4ui so let that
     bring in the proper dependency.
 
-commit a5c389a72f5cf2de47965b40c7e65d0cb5d9b41d
+commit 1cb37b233b812f0df4f00bf563b21087657d586a
 Author: Anonymous <noreply@xfce.org>
 Date:   Thu Mar 26 12:31:57 2015 +0100
 
@@ -324,7 +2573,7 @@ Date:   Thu Mar 26 12:31:57 2015 +0100
     
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
-commit 377ec10a7bf6e64347cd84ec06dae7e9485e6fe0
+commit bb1140b49afb837634aa6f15cbcbc6bf29450c71
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Tue Mar 17 11:47:29 2015 +0100
 
@@ -332,7 +2581,7 @@ Date:   Tue Mar 17 11:47:29 2015 +0100
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 351550a12c71e879982f1a2a71a4df53aec76005
+commit a6dd7d7171367f0e9af29152ccd1bfc0e6279b09
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Fri Mar 13 17:04:00 2015 +0100
 
@@ -340,7 +2589,7 @@ Date:   Fri Mar 13 17:04:00 2015 +0100
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 949e35f3446155088311db71f6ed90045a3dcec6
+commit b0388120725ff485e5ae40fde4017aa8c7efb9cf
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Sun Mar 1 23:42:52 2015 +0100
 
@@ -348,13 +2597,13 @@ Date:   Sun Mar 1 23:42:52 2015 +0100
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit 1b5dcf65c0774e6dae815135e0a915716e39e93e
+commit 3e3c720b2ee09971a52154d638d0bdf7cd628e04
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Thu Mar 26 06:18:58 2015 +0300
 
     trivial: fix build warnings
 
-commit dfd0e906ebcde15b1fed87cfb0c981a1d618ab70
+commit b9e8ae884a15a4386076553d9ea0e5b32513ee85
 Author: Olivier Duchateau <duchateau.olivier@gmail.com>
 Date:   Wed Mar 25 16:21:56 2015 +0000
 
@@ -362,13 +2611,13 @@ Date:   Wed Mar 25 16:21:56 2015 +0000
     
     Signed-off-by: Eric Koegel <eric.koegel@gmail.com>
 
-commit ac4463cdba7f37ad1f6a2504906686c2aa5ff87e
+commit 8478c3ddc19185bd605708c4ab864475b84c3282
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Wed Mar 18 00:04:42 2015 +0100
 
     Add default wallpaper folder to file chooser (Bug #11715)
 
-commit e399f2cc774a10f05aff5fe2d2171d72bea586be
+commit a6761e4a3429fd82bb0f0b98277660d689b3d2a4
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Mon Mar 23 22:11:58 2015 +0100
 
@@ -376,25 +2625,13 @@ Date:   Mon Mar 23 22:11:58 2015 +0100
     
     This fixes a visual glitch caused by commit d8b37e5.
 
-commit c689577e2cda7443b74eccbc0ff9ba21374ba3c6
+commit be464d06dc38cc068926e30d891318742410fc56
 Author: Thaddaeus Tintenfisch <thad.fisch@gmail.com>
 Date:   Tue Mar 17 22:19:02 2015 +0100
 
     Fix a previous commit
     
     This fixes commit 26bc8820e502f74b99648b213c28b681971e6ca6.
-
-commit f4872e6dca17bcd69bcd750833222c735ced7b58
-Author: Eric Koegel <eric.koegel@gmail.com>
-Date:   Sun Mar 22 10:14:23 2015 +0300
-
-    Post release tag bump
-
-commit 15a5f27e0d9ed2ee2c08f3f96f9388ba629b10e2
-Author: Eric Koegel <eric.koegel@gmail.com>
-Date:   Sun Mar 22 10:09:44 2015 +0300
-
-    Updates for release.
 
 commit 98102f05b931f60430e850ed977570cd113a2973
 Author: Matt Thirtytwo <matt.59491@gmail.com>
@@ -5104,16 +7341,16 @@ Date:   Wed Nov 13 14:54:31 2013 +0300
     consistant with the other tabs.
 
 commit 46c09c3a910df3e71bf9b15f5488c8265816256c
-Merge: 2e4d8d3 14fa81a
+Merge: 2e4d8d39 14fa81af
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Thu Nov 14 02:37:07 2013 +0300
 
     Merge branch 'eric/Port-to-GApplication'
     
     Conflicts:
-    	common/xfdesktop-common.c
-    	common/xfdesktop-common.h
-    	src/main.c
+            common/xfdesktop-common.c
+            common/xfdesktop-common.h
+            src/main.c
 
 commit 2e4d8d39015c87b4c91c6a0e9192dba123a0c681
 Author: FredN <fredrik@nyqvist.biz>
@@ -5648,7 +7885,7 @@ Date:   Sat Apr 28 14:05:12 2012 +0300
     Use the Path key of desktop files if a path is not set (Bug #8741)
 
 commit 3deb28c2b6f26951a556b1e46d69591c8f6c6299
-Merge: 984397d f6a34c5
+Merge: 984397d4 f6a34c51
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sun Oct 27 21:40:04 2013 +0300
 
@@ -6443,7 +8680,7 @@ Date:   Sun Sep 1 17:45:17 2013 +0300
     Fix compiling with --disable-desktop-icons
 
 commit deed58cbb4fc984bd3bcfc5808533e21c57d1148
-Merge: 9599d57 9becad1
+Merge: 9599d577 9becad15
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sun Sep 1 17:18:38 2013 +0300
 
@@ -6479,7 +8716,7 @@ Date:   Sat Aug 31 06:32:19 2013 +0200
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
 commit aff26e01b106738488060121557c52e16e70f645
-Merge: af35570 c551f08
+Merge: af355704 c551f08a
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sat Aug 31 04:37:11 2013 +0300
 
@@ -6890,14 +9127,14 @@ Date:   Sun Apr 21 10:05:14 2013 +0300
     would like them to be.
 
 commit bf859f1caef83338e4c5c5725b55009abe68457d
-Merge: b546447 799811c
+Merge: b5464471 799811c5
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Sun Aug 4 11:33:51 2013 +0300
 
     Merge branch 'eric/wallpaper-and-settings-improvements'
     
     Conflicts:
-    	src/xfce-backdrop.c
+            src/xfce-backdrop.c
     
     Removed brightness code that was causing the conflict and isn't used anymore.
 
@@ -9847,7 +12084,7 @@ Date:   Mon Mar 5 20:21:02 2012 +0100
     Transmitted-via: Transifex (translations.xfce.org).
 
 commit 22a94a56372747c16a5084291bfa05fb1a82ac8c
-Merge: ec6d521 2fac2c9
+Merge: ec6d5219 2fac2c92
 Author: Eric Koegel <eric.koegel@gmail.com>
 Date:   Mon Mar 5 21:25:08 2012 +0300
 
@@ -10865,7 +13102,7 @@ Date:   Fri Apr 22 17:42:57 2011 +0200
     Fix some compiler warnings.
 
 commit 85ec0bc3192058fbe5abe93653c5ab823620850a
-Merge: f992724 2ea1959
+Merge: f992724e 2ea1959a
 Author: Jérôme Guelfucci <jeromeg@xfce.org>
 Date:   Fri Apr 22 15:26:34 2011 +0200
 
@@ -13311,7 +15548,7 @@ Date:   Tue Jun 1 17:46:43 2010 +0200
     
     Conflicts:
     
-    	po-doc/ChangeLog
+            po-doc/ChangeLog
 
 commit 5aa41eea417692d698c2ed16235a4dd93b7077f0
 Author: Ivica  Kolić <ikoli@yahoo.com>
@@ -14467,7 +16704,7 @@ commit babb037af5eb5e61111ae8c5088d3c57fe1492b8
 Author: Per Kongstad <p_kongstad@op.pl>
 Date:   Wed Aug 5 15:38:06 2009 +0000
 
-    	* da.po: Danish translation update (Per Kongstad)
+            * da.po: Danish translation update (Per Kongstad)
     
     (Old svn revision: 30432)
 
@@ -14475,8 +16712,8 @@ commit 33cc9730a5161da7fdac9e7b1488e9c331e89645
 Author: Per Kongstad <p_kongstad@op.pl>
 Date:   Mon Aug 3 10:29:56 2009 +0000
 
-    	* da.po: Danish translation update (Per Kongstad)
-    	* da.po: Danish translation update (Per Kongstad)
+            * da.po: Danish translation update (Per Kongstad)
+            * da.po: Danish translation update (Per Kongstad)
     
     (Old svn revision: 30427)
 
@@ -14502,7 +16739,7 @@ Date:   Sun Jul 12 13:48:39 2009 +0000
 
     2009-07-12  Gabor Kelemen  <kelemeng@gnome.hu>
     
-    	* hu.po: Translation updated.
+            * hu.po: Translation updated.
     
     
     (Old svn revision: 30294)
@@ -14521,7 +16758,7 @@ Date:   Wed Jul 8 17:58:57 2009 +0000
 
     2009-07-08  Gabor Kelemen  <kelemeng@gnome.hu>
     
-    	* hu.po: Translation reworked.
+            * hu.po: Translation reworked.
     
     (Old svn revision: 30224)
 
@@ -14850,7 +17087,7 @@ commit 148b98549b906c8b305aa8270df209357d79c014
 Author: Masato Hashimoto <cabezon.hashimoto@gmail.com>
 Date:   Fri Mar 20 06:27:59 2009 +0000
 
-    	* ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
     
     (Old svn revision: 29678)
 
@@ -14867,22 +17104,22 @@ commit 3e83ca2212edaabf96e9b1e04b2ec9ea76cb2500
 Author: Masato Hashimoto <cabezon.hashimoto@gmail.com>
 Date:   Thu Mar 19 15:02:17 2009 +0000
 
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
-    	* ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
+            * ja.po: Japanese translation update (Masato Hashimoto)
     
     (Old svn revision: 29675)
 
@@ -15066,7 +17303,7 @@ commit 385830fd5d18c0df5cea1e65c31a8d847aaf8064
 Author: Per Kongstad <p_kongstad@op.pl>
 Date:   Wed Feb 18 17:57:58 2009 +0000
 
-    	* da.po: Danish translation updated (Per Kongstad)
+            * da.po: Danish translation updated (Per Kongstad)
     
     
     
@@ -15168,7 +17405,7 @@ commit 9f942d1b9efd5823ed4942fdfafa2bc0ec823acc
 Author: Per Kongstad <p_kongstad@op.pl>
 Date:   Tue Feb 17 21:51:47 2009 +0000
 
-    	* da.po: Danish translation update (Per Kongstad)
+            * da.po: Danish translation update (Per Kongstad)
     
     
     
@@ -15260,7 +17497,7 @@ commit 8be19dee2e08d92976d92bff6ad4c038894faba2
 Author: Per Kongstad <p_kongstad@op.pl>
 Date:   Tue Feb 17 18:09:27 2009 +0000
 
-    	* da.po, LINGUAS: Added Danish translation (Lars Jensen)
+            * da.po, LINGUAS: Added Danish translation (Lars Jensen)
     
     
     
@@ -15599,25 +17836,25 @@ Author: Alexander Toresson <alexander.toresson@gmail.com>
 Date:   Sat Dec 13 21:25:06 2008 +0000
 
     xfce4-panel/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     xfdesktop/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     xfprint/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     xfce4-mixer/trunk/po:
-    	* sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
+            * sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
     xfce4-icon-theme/trunk/po:
-    	* sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
+            * sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
     xfce-utils/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     thunar/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     xfce4-appfinder/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     xfconf/trunk/po:
-    	* sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
+            * sv.po, LINGUAS: Swedish translation added (Daniel Nylander)
     xfce4-trigger-launcher/trunk/po:
-    	* sv.po: Swedish translation update (Daniel Nylander)
+            * sv.po: Swedish translation update (Daniel Nylander)
     
     (Old svn revision: 29020)
 
@@ -15972,7 +18209,7 @@ commit e5bfe23c809f39b49d90dfd8acd82c211ec7f375
 Author: Lars Nielsen <lars@mit-web.dk>
 Date:   Tue Oct 14 18:37:28 2008 +0000
 
-    	* da.po,LINGUAS: Added Danish translation
+            * da.po,LINGUAS: Added Danish translation
     
     
     (Old svn revision: 28255)
@@ -16092,12 +18329,12 @@ Author: Maximilian Schleiss <maxschleiss@solnet.ch>
 Date:   Tue Oct 7 19:55:45 2008 +0000
 
     Translation updates:
-    	- xfce4-appfinder:	ja, si
-    	- xfce-utils:		ja, si
-    	- xfce4-mixer:		si
-    	- xfce4-panel:		ja, si
-    	- xfdesktop:		ja
-    	- terminal:			ja
+            - xfce4-appfinder:      ja, si
+            - xfce-utils:           ja, si
+            - xfce4-mixer:          si
+            - xfce4-panel:          ja, si
+            - xfdesktop:            ja
+            - terminal:                     ja
     
     (Old svn revision: 28092)
 
@@ -17562,8 +19799,8 @@ commit b69660d6e5920f17d20b8ea22de19860532078a7
 Author: Mike Massonnet <mmassonnet@xfce.org>
 Date:   Sat Oct 6 17:00:21 2007 +0000
 
-    	* libexo, libxfce4util, xfcalendar, xfce4-panel, xfce4-session, xfce-mcs-plugins,
-    	  xfdesktop, xfprint, xfwm4: Add Latvian translation.
+            * libexo, libxfce4util, xfcalendar, xfce4-panel, xfce4-session, xfce-mcs-plugins,
+              xfdesktop, xfprint, xfwm4: Add Latvian translation.
     
     
     (Old svn revision: 26127)
@@ -17947,9 +20184,9 @@ Author: Maximilian Schleiss <maxschleiss@solnet.ch>
 Date:   Sat Mar 24 20:26:42 2007 +0000
 
     * de.po: Nico Schümann updated the following German translations
-    		libexo; xfburn; xfce4-panel and xfdesktop
+                    libexo; xfburn; xfce4-panel and xfdesktop
     * fr.po: Updated the following French translations
-    		squeeze; xfce4-panel and xfdesktop
+                    squeeze; xfce4-panel and xfdesktop
     
     
     (Old svn revision: 25280)
@@ -18348,7 +20585,7 @@ Date:   Sat Mar 3 10:06:21 2007 +0000
 
     2007-03-03 Maxim Dziumanenko <dziumanenko@gmail.com>
     
-    	* Update Ukrainian translation.
+            * Update Ukrainian translation.
     
     
     
@@ -21689,7 +23926,7 @@ Date:   Tue Apr 25 15:58:11 2006 +0000
 
     2006-04-25  Maxim Dziumanenko <mvd@mylinux.ua>
     
-    	* Updated Ukrainian translation.
+            * Updated Ukrainian translation.
     
     
     
@@ -23202,7 +25439,7 @@ Author: Pau Rullan Ferragut <paurullan@bulma.net>
 Date:   Thu Feb 16 21:39:59 2006 +0000
 
     [i18n] catalan: little fixes of old strings
-    	(even that the translation is very fuzzy)
+            (even that the translation is very fuzzy)
     
     
     
@@ -31178,319 +33415,319 @@ Date:   Mon Oct 13 16:21:02 2003 +0000
     
     2003-10-11 00:08  edscott
     
-    	* xffm/src/: add_folder.c, add_node_contents.c, callbacks.c,
-    	keybindings.c, main.c, treeview.c: do second letter search if first
-    	letter is / -- DONE autohide diagnostics on click or keypress--DONE
-    	compare dates between mime file and dbh file before updating
-    	applications -- DONE scroll by keyboard debugged and enhanced
-    	--DONE g_strchug() crash on openwith by menu... --FIXED on go_up do
-    	not place in history, nor back nor forward --DONE
+            * xffm/src/: add_folder.c, add_node_contents.c, callbacks.c,
+            keybindings.c, main.c, treeview.c: do second letter search if first
+            letter is / -- DONE autohide diagnostics on click or keypress--DONE
+            compare dates between mime file and dbh file before updating
+            applications -- DONE scroll by keyboard debugged and enhanced
+            --DONE g_strchug() crash on openwith by menu... --FIXED on go_up do
+            not place in history, nor back nor forward --DONE
     
     2003-10-11 00:05  edscott
     
-    	* xffm/: libs/apps.c, libs/bookmarks.c, libs/constants.h,
-    	libs/cpy.c, libs/dnd.c, libs/dummies.c, libs/duplicate.c,
-    	libs/entry.c, libs/goto.c, libs/goto.h, libs/icons.c, libs/menu.c,
-    	libs/menu_callbacks.c, libs/misc.c, libs/misc.h, libs/monitor.c,
-    	libs/new_win.c, libs/pasteboard.c, libs/print.c, libs/refresh.c,
-    	libs/reg.c, libs/remove.c, libs/rename.c, libs/run.c, libs/run.h,
-    	libs/scramble.c, libs/symlink.c, libs/terminal.c, libs/touch.c,
-    	libs/trash.c, libs/xfdiff.c, smb/smb_download.c, smb/smb_list.c: do
-    	second letter search if first letter is / -- DONE autohide
-    	diagnostics on click or keypress--DONE compare dates between mime
-    	file and dbh file before updating applications -- DONE scroll by
-    	keyboard debugged and enhanced --DONE g_strchug() crash on openwith
-    	by menu... --FIXED on go_up do not place in history, nor back nor
-    	forward --DONE
+            * xffm/: libs/apps.c, libs/bookmarks.c, libs/constants.h,
+            libs/cpy.c, libs/dnd.c, libs/dummies.c, libs/duplicate.c,
+            libs/entry.c, libs/goto.c, libs/goto.h, libs/icons.c, libs/menu.c,
+            libs/menu_callbacks.c, libs/misc.c, libs/misc.h, libs/monitor.c,
+            libs/new_win.c, libs/pasteboard.c, libs/print.c, libs/refresh.c,
+            libs/reg.c, libs/remove.c, libs/rename.c, libs/run.c, libs/run.h,
+            libs/scramble.c, libs/symlink.c, libs/terminal.c, libs/touch.c,
+            libs/trash.c, libs/xfdiff.c, smb/smb_download.c, smb/smb_list.c: do
+            second letter search if first letter is / -- DONE autohide
+            diagnostics on click or keypress--DONE compare dates between mime
+            file and dbh file before updating applications -- DONE scroll by
+            keyboard debugged and enhanced --DONE g_strchug() crash on openwith
+            by menu... --FIXED on go_up do not place in history, nor back nor
+            forward --DONE
     
     2003-10-10 23:19  xfce
     
-    	* xfce-utils/scripts/xinitrc: Don't use cpp in xrdb so that DPI
-    	settings load even on workstations w/out cpp
+            * xfce-utils/scripts/xinitrc: Don't use cpp in xrdb so that DPI
+            settings load even on workstations w/out cpp
     
     2003-10-10 22:17  xfce
     
-    	* libxfcegui4/libxfcegui4/netk-pager.c, xfwm4/configure,
-    	xfwm4/configure.ac, xfwm4/themes/Makefile.am,
-    	xfwm4/themes/Makefile.in, xfwm4/themes/default/bottom-active.xpm,
-    	xfwm4/themes/default/bottom-inactive.xpm,
-    	xfwm4/themes/default/bottom-left-active.xpm,
-    	xfwm4/themes/default/bottom-left-inactive.xpm,
-    	xfwm4/themes/default/bottom-right-active.xpm,
-    	xfwm4/themes/default/bottom-right-inactive.xpm,
-    	xfwm4/themes/default/close-active.xpm,
-    	xfwm4/themes/default/close-inactive.xpm,
-    	xfwm4/themes/default/close-pressed.xpm,
-    	xfwm4/themes/default/hide-active.xpm,
-    	xfwm4/themes/default/hide-inactive.xpm,
-    	xfwm4/themes/default/hide-pressed.xpm,
-    	xfwm4/themes/default/left-active.xpm,
-    	xfwm4/themes/default/left-inactive.xpm,
-    	xfwm4/themes/default/maximize-active.xpm,
-    	xfwm4/themes/default/maximize-inactive.xpm,
-    	xfwm4/themes/default/maximize-pressed.xpm,
-    	xfwm4/themes/default/maximize-toggled-active.xpm,
-    	xfwm4/themes/default/maximize-toggled-inactive.xpm,
-    	xfwm4/themes/default/maximize-toggled-pressed.xpm,
-    	xfwm4/themes/default/menu-active.xpm,
-    	xfwm4/themes/default/menu-inactive.xpm,
-    	xfwm4/themes/default/menu-pressed.xpm,
-    	xfwm4/themes/default/right-active.xpm,
-    	xfwm4/themes/default/right-inactive.xpm,
-    	xfwm4/themes/default/shade-active.xpm,
-    	xfwm4/themes/default/shade-inactive.xpm,
-    	xfwm4/themes/default/shade-pressed.xpm,
-    	xfwm4/themes/default/shade-toggled-active.xpm,
-    	xfwm4/themes/default/shade-toggled-inactive.xpm,
-    	xfwm4/themes/default/shade-toggled-pressed.xpm,
-    	xfwm4/themes/default/stick-active.xpm,
-    	xfwm4/themes/default/stick-inactive.xpm,
-    	xfwm4/themes/default/stick-pressed.xpm,
-    	xfwm4/themes/default/stick-toggled-active.xpm,
-    	xfwm4/themes/default/stick-toggled-inactive.xpm,
-    	xfwm4/themes/default/stick-toggled-pressed.xpm,
-    	xfwm4/themes/default/themerc,
-    	xfwm4/themes/default/title-1-active.xpm,
-    	xfwm4/themes/default/title-1-inactive.xpm,
-    	xfwm4/themes/default/title-2-active.xpm,
-    	xfwm4/themes/default/title-2-inactive.xpm,
-    	xfwm4/themes/default/title-3-active.xpm,
-    	xfwm4/themes/default/title-3-inactive.xpm,
-    	xfwm4/themes/default/title-4-active.xpm,
-    	xfwm4/themes/default/title-4-inactive.xpm,
-    	xfwm4/themes/default/title-5-active.xpm,
-    	xfwm4/themes/default/title-5-inactive.xpm,
-    	xfwm4/themes/default/top-left-active.xpm,
-    	xfwm4/themes/default/top-left-inactive.xpm,
-    	xfwm4/themes/default/top-right-active.xpm,
-    	xfwm4/themes/default/top-right-inactive.xpm: Revert xfwm4 default
-    	theme to the one found in pre-release as it looked better Fix a
-    	very small thing in netk-pager
+            * libxfcegui4/libxfcegui4/netk-pager.c, xfwm4/configure,
+            xfwm4/configure.ac, xfwm4/themes/Makefile.am,
+            xfwm4/themes/Makefile.in, xfwm4/themes/default/bottom-active.xpm,
+            xfwm4/themes/default/bottom-inactive.xpm,
+            xfwm4/themes/default/bottom-left-active.xpm,
+            xfwm4/themes/default/bottom-left-inactive.xpm,
+            xfwm4/themes/default/bottom-right-active.xpm,
+            xfwm4/themes/default/bottom-right-inactive.xpm,
+            xfwm4/themes/default/close-active.xpm,
+            xfwm4/themes/default/close-inactive.xpm,
+            xfwm4/themes/default/close-pressed.xpm,
+            xfwm4/themes/default/hide-active.xpm,
+            xfwm4/themes/default/hide-inactive.xpm,
+            xfwm4/themes/default/hide-pressed.xpm,
+            xfwm4/themes/default/left-active.xpm,
+            xfwm4/themes/default/left-inactive.xpm,
+            xfwm4/themes/default/maximize-active.xpm,
+            xfwm4/themes/default/maximize-inactive.xpm,
+            xfwm4/themes/default/maximize-pressed.xpm,
+            xfwm4/themes/default/maximize-toggled-active.xpm,
+            xfwm4/themes/default/maximize-toggled-inactive.xpm,
+            xfwm4/themes/default/maximize-toggled-pressed.xpm,
+            xfwm4/themes/default/menu-active.xpm,
+            xfwm4/themes/default/menu-inactive.xpm,
+            xfwm4/themes/default/menu-pressed.xpm,
+            xfwm4/themes/default/right-active.xpm,
+            xfwm4/themes/default/right-inactive.xpm,
+            xfwm4/themes/default/shade-active.xpm,
+            xfwm4/themes/default/shade-inactive.xpm,
+            xfwm4/themes/default/shade-pressed.xpm,
+            xfwm4/themes/default/shade-toggled-active.xpm,
+            xfwm4/themes/default/shade-toggled-inactive.xpm,
+            xfwm4/themes/default/shade-toggled-pressed.xpm,
+            xfwm4/themes/default/stick-active.xpm,
+            xfwm4/themes/default/stick-inactive.xpm,
+            xfwm4/themes/default/stick-pressed.xpm,
+            xfwm4/themes/default/stick-toggled-active.xpm,
+            xfwm4/themes/default/stick-toggled-inactive.xpm,
+            xfwm4/themes/default/stick-toggled-pressed.xpm,
+            xfwm4/themes/default/themerc,
+            xfwm4/themes/default/title-1-active.xpm,
+            xfwm4/themes/default/title-1-inactive.xpm,
+            xfwm4/themes/default/title-2-active.xpm,
+            xfwm4/themes/default/title-2-inactive.xpm,
+            xfwm4/themes/default/title-3-active.xpm,
+            xfwm4/themes/default/title-3-inactive.xpm,
+            xfwm4/themes/default/title-4-active.xpm,
+            xfwm4/themes/default/title-4-inactive.xpm,
+            xfwm4/themes/default/title-5-active.xpm,
+            xfwm4/themes/default/title-5-inactive.xpm,
+            xfwm4/themes/default/top-left-active.xpm,
+            xfwm4/themes/default/top-left-inactive.xpm,
+            xfwm4/themes/default/top-right-active.xpm,
+            xfwm4/themes/default/top-right-inactive.xpm: Revert xfwm4 default
+            theme to the one found in pre-release as it looked better Fix a
+            very small thing in netk-pager
     
     2003-10-10 19:21  huysmans
     
-    	* xfce4/plugins/pager/pager.c: Fix resizing bug
+            * xfce4/plugins/pager/pager.c: Fix resizing bug
     
     2003-10-09 23:41  huysmans
     
-    	* xfwm4/: mcs-plugin/workspaces.c, src/settings.c: Move workspace
-    	names settings into settings plugin. Rename count to
-    	Xfwm/WorkspaceCount for consistency.
+            * xfwm4/: mcs-plugin/workspaces.c, src/settings.c: Move workspace
+            names settings into settings plugin. Rename count to
+            Xfwm/WorkspaceCount for consistency.
     
     2003-10-09 23:03  xfce
     
-    	* libxfcegui4/: configure, configure.ac: Increase version number
+            * libxfcegui4/: configure, configure.ac: Increase version number
     
     2003-10-09 22:13  xfce
     
-    	* xfwm4/themes/default/: close-active.xpm, close-inactive.xpm,
-    	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
-    	hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
-    	maximize-pressed.xpm, maximize-toggled-active.xpm,
-    	maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm,
-    	menu-active.xpm, menu-inactive.xpm, menu-pressed.xpm,
-    	shade-active.xpm, shade-inactive.xpm, shade-pressed.xpm,
-    	shade-toggled-active.xpm, shade-toggled-inactive.xpm,
-    	shade-toggled-pressed.xpm, stick-active.xpm, stick-inactive.xpm,
-    	stick-pressed.xpm, stick-toggled-active.xpm,
-    	stick-toggled-inactive.xpm, stick-toggled-pressed.xpm, themerc,
-    	title-2-active.xpm, title-2-inactive.xpm, title-3-active.xpm,
-    	title-3-inactive.xpm, title-4-active.xpm, title-4-inactive.xpm:
-    	Change default theme for 4.2
+            * xfwm4/themes/default/: close-active.xpm, close-inactive.xpm,
+            close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+            hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
+            maximize-pressed.xpm, maximize-toggled-active.xpm,
+            maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm,
+            menu-active.xpm, menu-inactive.xpm, menu-pressed.xpm,
+            shade-active.xpm, shade-inactive.xpm, shade-pressed.xpm,
+            shade-toggled-active.xpm, shade-toggled-inactive.xpm,
+            shade-toggled-pressed.xpm, stick-active.xpm, stick-inactive.xpm,
+            stick-pressed.xpm, stick-toggled-active.xpm,
+            stick-toggled-inactive.xpm, stick-toggled-pressed.xpm, themerc,
+            title-2-active.xpm, title-2-inactive.xpm, title-3-active.xpm,
+            title-3-inactive.xpm, title-4-active.xpm, title-4-inactive.xpm:
+            Change default theme for 4.2
     
     2003-10-09 15:19  edscott
     
-    	* xffm/: glade_intl, src/glade_callbacks.h, src/glade_gui.c.bak,
-    	src/glade_gui.h: remove obsolete files
+            * xffm/: glade_intl, src/glade_callbacks.h, src/glade_gui.c.bak,
+            src/glade_gui.h: remove obsolete files
     
     2003-10-09 07:04  edscott
     
-    	* xffm/src/: Makefile.am, Makefile.in, callbacks.c, keybindings.c,
-    	keybindings.h, treeview.c, treeview.h: scroll by keyboard is now
-    	case insensitive, if shift is pressed, scroll search w ill proceed
-    	backwards. Backward scroll-search will not wrap. Forward
-    	scroll-sear ch will wrap (as before).
+            * xffm/src/: Makefile.am, Makefile.in, callbacks.c, keybindings.c,
+            keybindings.h, treeview.c, treeview.h: scroll by keyboard is now
+            case insensitive, if shift is pressed, scroll search w ill proceed
+            backwards. Backward scroll-search will not wrap. Forward
+            scroll-sear ch will wrap (as before).
     
     2003-10-09 04:14  edscott
     
-    	* xffm/: glade/xffm_main.glade, libs/apps.c, libs/bookmarks.c,
-    	libs/combo.c, libs/cpy.c, libs/dummies.c, libs/duplicate.c,
-    	libs/entry.c, libs/filter.c, libs/find.h, libs/goto.c, libs/goto.h,
-    	libs/icons.c, libs/input.c, libs/menu.c, libs/menu_callbacks.c,
-    	libs/misc.c, libs/monitor.c, libs/options.c, libs/options.h,
-    	libs/print.h, libs/refresh.c, libs/reg.c, libs/reg.h,
-    	libs/remove.c, libs/remove.h, libs/rename.c, libs/run.c,
-    	libs/run.h, libs/symlink.c, libs/touch.c, libs/trash.c,
-    	smb/smb_download.c, smb/smb_list.c, src/glade_main_gui.c,
-    	src/main.c, src/treeview.c, src/widgets.c: eliminate all warnings
-    	when compiling with --enable-debug
+            * xffm/: glade/xffm_main.glade, libs/apps.c, libs/bookmarks.c,
+            libs/combo.c, libs/cpy.c, libs/dummies.c, libs/duplicate.c,
+            libs/entry.c, libs/filter.c, libs/find.h, libs/goto.c, libs/goto.h,
+            libs/icons.c, libs/input.c, libs/menu.c, libs/menu_callbacks.c,
+            libs/misc.c, libs/monitor.c, libs/options.c, libs/options.h,
+            libs/print.h, libs/refresh.c, libs/reg.c, libs/reg.h,
+            libs/remove.c, libs/remove.h, libs/rename.c, libs/run.c,
+            libs/run.h, libs/symlink.c, libs/touch.c, libs/trash.c,
+            smb/smb_download.c, smb/smb_list.c, src/glade_main_gui.c,
+            src/main.c, src/treeview.c, src/widgets.c: eliminate all warnings
+            when compiling with --enable-debug
     
     2003-10-09 01:46  edscott
     
-    	* xffm/: xffm.glade, xffm.gladep, glade/xffm_find.glade,
-    	glade/xffm_find.gladep, glade/xffm_main.glade,
-    	glade/xffm_main.gladep, glade/xffm_remove.glade,
-    	glade/xffm_remove.gladep, libs/Makefile.am, libs/Makefile.in,
-    	libs/apps.c, libs/bookmarks.c, libs/combo.c, libs/combo.h,
-    	libs/cpy.c, libs/dnd.c, libs/duplicate.c, libs/entry.c,
-    	libs/filter.c, libs/filter.h, libs/find.c, libs/fstab.c,
-    	libs/goto.c, libs/help.c, libs/input.c, libs/input.h,
-    	libs/menu_callbacks.c, libs/menu_callbacks.h, libs/misc.c,
-    	libs/monitor.c, libs/new.c, libs/options.c, libs/pasteboard.c,
-    	libs/print.c, libs/refresh.c, libs/reg.c, libs/remove.c,
-    	libs/rename.c, libs/run.c, libs/scramble.c, libs/settings.c,
-    	libs/symlink.c, libs/terminal.c, libs/touch.c, libs/trash.c,
-    	libs/tubo.c, libs/xfdiff.c, libs/zoom.c, smb/smb_list.c,
-    	src/Makefile.am, src/Makefile.in, src/add_file.c, src/add_folder.c,
-    	src/add_node_contents.c, src/aux.c, src/callbacks.c,
-    	src/glade_callbacks.c, src/glade_find_callbacks.c,
-    	src/glade_find_callbacks.h, src/glade_find_gui.c,
-    	src/glade_find_gui.h, src/glade_gui.c, src/glade_main_callbacks.c,
-    	src/glade_main_callbacks.h, src/glade_main_gui.c,
-    	src/glade_main_gui.h, src/glade_remove_callbacks.c,
-    	src/glade_remove_callbacks.h, src/glade_remove_gui.c,
-    	src/glade_remove_gui.h, src/main.c, src/mcs-manager.c,
-    	src/treeview.c, src/widgets.c: broke glade files into three parts
+            * xffm/: xffm.glade, xffm.gladep, glade/xffm_find.glade,
+            glade/xffm_find.gladep, glade/xffm_main.glade,
+            glade/xffm_main.gladep, glade/xffm_remove.glade,
+            glade/xffm_remove.gladep, libs/Makefile.am, libs/Makefile.in,
+            libs/apps.c, libs/bookmarks.c, libs/combo.c, libs/combo.h,
+            libs/cpy.c, libs/dnd.c, libs/duplicate.c, libs/entry.c,
+            libs/filter.c, libs/filter.h, libs/find.c, libs/fstab.c,
+            libs/goto.c, libs/help.c, libs/input.c, libs/input.h,
+            libs/menu_callbacks.c, libs/menu_callbacks.h, libs/misc.c,
+            libs/monitor.c, libs/new.c, libs/options.c, libs/pasteboard.c,
+            libs/print.c, libs/refresh.c, libs/reg.c, libs/remove.c,
+            libs/rename.c, libs/run.c, libs/scramble.c, libs/settings.c,
+            libs/symlink.c, libs/terminal.c, libs/touch.c, libs/trash.c,
+            libs/tubo.c, libs/xfdiff.c, libs/zoom.c, smb/smb_list.c,
+            src/Makefile.am, src/Makefile.in, src/add_file.c, src/add_folder.c,
+            src/add_node_contents.c, src/aux.c, src/callbacks.c,
+            src/glade_callbacks.c, src/glade_find_callbacks.c,
+            src/glade_find_callbacks.h, src/glade_find_gui.c,
+            src/glade_find_gui.h, src/glade_gui.c, src/glade_main_callbacks.c,
+            src/glade_main_callbacks.h, src/glade_main_gui.c,
+            src/glade_main_gui.h, src/glade_remove_callbacks.c,
+            src/glade_remove_callbacks.h, src/glade_remove_gui.c,
+            src/glade_remove_gui.h, src/main.c, src/mcs-manager.c,
+            src/treeview.c, src/widgets.c: broke glade files into three parts
     
     2003-10-08 23:43  xfce
     
-    	* xfwm4/src/: client.c, events.c, settings.c: [no log message]
+            * xfwm4/src/: client.c, events.c, settings.c: [no log message]
     
     2003-10-08 22:29  xfce
     
-    	* xfwm4/themes/default.keys/keythemerc: Change raise/lower key
+            * xfwm4/themes/default.keys/keythemerc: Change raise/lower key
     
     2003-10-08 22:24  xfce
     
-    	* xfwm4/: src/settings.c, themes/default.keys/keythemerc: Fix
-    	raise/lower key shortcut patch
+            * xfwm4/: src/settings.c, themes/default.keys/keythemerc: Fix
+            raise/lower key shortcut patch
     
     2003-10-08 22:12  xfce
     
-    	* xfwm4/: configure, configure.ac, themes/Makefile.am,
-    	themes/Makefile.in, themes/default/title-2-active.xpm,
-    	themes/default/title-2-inactive.xpm,
-    	themes/default/title-4-active.xpm,
-    	themes/default/title-4-inactive.xpm,
-    	themes/default/top-right-active.xpm,
-    	themes/default/top-right-inactive.xpm: Add missing files
+            * xfwm4/: configure, configure.ac, themes/Makefile.am,
+            themes/Makefile.in, themes/default/title-2-active.xpm,
+            themes/default/title-2-inactive.xpm,
+            themes/default/title-4-active.xpm,
+            themes/default/title-4-inactive.xpm,
+            themes/default/top-right-active.xpm,
+            themes/default/top-right-inactive.xpm: Add missing files
     
     2003-10-08 10:20  huysmans
     
-    	* xfdesktop/doc/C/xfdesktop.html, xfdesktop/doc/C/xfdesktop.xml,
-    	xfdesktop/doc/C/images/Makefile.am,
-    	xfdesktop/doc/C/images/Makefile.in,
-    	xfdesktop/doc/C/images/xfdesktop-workspace.png,
-    	xfdesktop/settings/Makefile.am, xfdesktop/settings/Makefile.in,
-    	xfdesktop/settings/backdrop-icon.h, xfdesktop/src/Makefile.am,
-    	xfdesktop/src/Makefile.in, xfdesktop/src/menu.c,
-    	xfdesktop/src/settings.c, xfwm4/configure, xfwm4/configure.ac,
-    	xfwm4/doc/C/xfwm4.html, xfwm4/doc/C/xfwm4.xml,
-    	xfwm4/doc/C/images/Makefile.am, xfwm4/doc/C/images/Makefile.in,
-    	xfwm4/doc/C/images/xfwm_workspaces.png,
-    	xfwm4/mcs-plugin/Makefile.am, xfwm4/mcs-plugin/Makefile.in,
-    	xfwm4/mcs-plugin/margins.c, xfwm4/mcs-plugin/margins.h,
-    	xfwm4/mcs-plugin/margins_plugin.c, xfwm4/mcs-plugin/plugin.c,
-    	xfwm4/mcs-plugin/plugin.h, xfwm4/mcs-plugin/workspaces-icon.h,
-    	xfwm4/mcs-plugin/workspaces.c, xfwm4/mcs-plugin/workspaces.h,
-    	xfwm4/mcs-plugin/workspaces.png, xfwm4/src/settings.c,
-    	xfwm4/themes/Makefile.am, xfwm4/themes/Makefile.in: Largish update:
-    	merge workspaces dialog from xfdesktop with workspace margins
-    	dialog from xfwm4. The new dialog is part of xfwm4.
+            * xfdesktop/doc/C/xfdesktop.html, xfdesktop/doc/C/xfdesktop.xml,
+            xfdesktop/doc/C/images/Makefile.am,
+            xfdesktop/doc/C/images/Makefile.in,
+            xfdesktop/doc/C/images/xfdesktop-workspace.png,
+            xfdesktop/settings/Makefile.am, xfdesktop/settings/Makefile.in,
+            xfdesktop/settings/backdrop-icon.h, xfdesktop/src/Makefile.am,
+            xfdesktop/src/Makefile.in, xfdesktop/src/menu.c,
+            xfdesktop/src/settings.c, xfwm4/configure, xfwm4/configure.ac,
+            xfwm4/doc/C/xfwm4.html, xfwm4/doc/C/xfwm4.xml,
+            xfwm4/doc/C/images/Makefile.am, xfwm4/doc/C/images/Makefile.in,
+            xfwm4/doc/C/images/xfwm_workspaces.png,
+            xfwm4/mcs-plugin/Makefile.am, xfwm4/mcs-plugin/Makefile.in,
+            xfwm4/mcs-plugin/margins.c, xfwm4/mcs-plugin/margins.h,
+            xfwm4/mcs-plugin/margins_plugin.c, xfwm4/mcs-plugin/plugin.c,
+            xfwm4/mcs-plugin/plugin.h, xfwm4/mcs-plugin/workspaces-icon.h,
+            xfwm4/mcs-plugin/workspaces.c, xfwm4/mcs-plugin/workspaces.h,
+            xfwm4/mcs-plugin/workspaces.png, xfwm4/src/settings.c,
+            xfwm4/themes/Makefile.am, xfwm4/themes/Makefile.in: Largish update:
+            merge workspaces dialog from xfdesktop with workspace margins
+            dialog from xfwm4. The new dialog is part of xfwm4.
     
     2003-10-07 22:44  xfce
     
-    	* libxfcegui4/libxfcegui4/: Makefile.am, Makefile.in,
-    	netk-class-group.c, netk-class-group.h, netk-private.h,
-    	netk-screen.c, netk-screen.h, netk-tasklist.c, netk-window.c,
-    	netk-window.h, netk-xutils.c, netk-xutils.h: Backport changes from
-    	libwnck HEAD cvs
+            * libxfcegui4/libxfcegui4/: Makefile.am, Makefile.in,
+            netk-class-group.c, netk-class-group.h, netk-private.h,
+            netk-screen.c, netk-screen.h, netk-tasklist.c, netk-window.c,
+            netk-window.h, netk-xutils.c, netk-xutils.h: Backport changes from
+            libwnck HEAD cvs
     
     2003-10-07 22:40  xfce
     
-    	* xffm/libs/: input.c, run.c: Include Edscott patches
+            * xffm/libs/: input.c, run.c: Include Edscott patches
     
     2003-10-07 22:31  xfce
     
-    	* xfwm4/: configure, configure.ac, src/client.c, src/events.c,
-    	themes/Makefile.am, themes/Makefile.in,
-    	themes/default/bottom-active.xpm,
-    	themes/default/bottom-inactive.xpm,
-    	themes/default/bottom-left-active.xpm,
-    	themes/default/bottom-left-inactive.xpm,
-    	themes/default/bottom-right-active.xpm,
-    	themes/default/bottom-right-inactive.xpm,
-    	themes/default/left-active.xpm, themes/default/left-inactive.xpm,
-    	themes/default/right-active.xpm, themes/default/right-inactive.xpm,
-    	themes/default/themerc, themes/default/title-1-active.xpm,
-    	themes/default/title-1-inactive.xpm,
-    	themes/default/title-2-active.xpm,
-    	themes/default/title-2-inactive.xpm,
-    	themes/default/title-3-active.xpm,
-    	themes/default/title-3-inactive.xpm,
-    	themes/default/title-4-active.xpm,
-    	themes/default/title-4-inactive.xpm,
-    	themes/default/title-5-active.xpm,
-    	themes/default/title-5-inactive.xpm,
-    	themes/default/top-left-active.xpm,
-    	themes/default/top-left-inactive.xpm,
-    	themes/default/top-right-active.xpm,
-    	themes/default/top-right-inactive.xpm,
-    	themes/tgc-large/Makefile.am, themes/tgc-large/Makefile.in,
-    	themes/tgc-large/README, themes/tgc-large/bottom-active.xpm,
-    	themes/tgc-large/bottom-inactive.xpm,
-    	themes/tgc-large/bottom-left-active.xpm,
-    	themes/tgc-large/bottom-left-inactive.xpm,
-    	themes/tgc-large/bottom-right-active.xpm,
-    	themes/tgc-large/bottom-right-inactive.xpm,
-    	themes/tgc-large/close-active.xpm,
-    	themes/tgc-large/close-inactive.xpm,
-    	themes/tgc-large/close-pressed.xpm,
-    	themes/tgc-large/hide-active.xpm,
-    	themes/tgc-large/hide-inactive.xpm,
-    	themes/tgc-large/hide-pressed.xpm,
-    	themes/tgc-large/left-active.xpm,
-    	themes/tgc-large/left-inactive.xpm,
-    	themes/tgc-large/maximize-active.xpm,
-    	themes/tgc-large/maximize-inactive.xpm,
-    	themes/tgc-large/maximize-pressed.xpm,
-    	themes/tgc-large/maximize-toggled-active.xpm,
-    	themes/tgc-large/maximize-toggled-inactive.xpm,
-    	themes/tgc-large/maximize-toggled-pressed.xpm,
-    	themes/tgc-large/menu-active.xpm,
-    	themes/tgc-large/menu-inactive.xpm,
-    	themes/tgc-large/menu-pressed.xpm,
-    	themes/tgc-large/right-active.xpm,
-    	themes/tgc-large/right-inactive.xpm,
-    	themes/tgc-large/shade-active.xpm,
-    	themes/tgc-large/shade-inactive.xpm,
-    	themes/tgc-large/shade-pressed.xpm,
-    	themes/tgc-large/shade-toggled-active.xpm,
-    	themes/tgc-large/shade-toggled-inactive.xpm,
-    	themes/tgc-large/shade-toggled-pressed.xpm,
-    	themes/tgc-large/stick-active.xpm,
-    	themes/tgc-large/stick-inactive.xpm,
-    	themes/tgc-large/stick-pressed.xpm,
-    	themes/tgc-large/stick-toggled-active.xpm,
-    	themes/tgc-large/stick-toggled-inactive.xpm,
-    	themes/tgc-large/stick-toggled-pressed.xpm,
-    	themes/tgc-large/themerc, themes/tgc-large/title-1-active.xpm,
-    	themes/tgc-large/title-1-inactive.xpm,
-    	themes/tgc-large/title-2-active.xpm,
-    	themes/tgc-large/title-2-inactive.xpm,
-    	themes/tgc-large/title-3-active.xpm,
-    	themes/tgc-large/title-3-inactive.xpm,
-    	themes/tgc-large/title-4-active.xpm,
-    	themes/tgc-large/title-4-inactive.xpm,
-    	themes/tgc-large/title-5-active.xpm,
-    	themes/tgc-large/title-5-inactive.xpm,
-    	themes/tgc-large/top-left-active.xpm,
-    	themes/tgc-large/top-left-inactive.xpm,
-    	themes/tgc-large/top-right-active.xpm,
-    	themes/tgc-large/top-right-inactive.xpm: Change default theme, keep
-    	old 4.0 theme as default-4.0 and add tgc-large theme Include
-    	improvements for fullscreen mode for gst from Arwed von Merkatz
-    	<v.merkatz@gmx.net>
+            * xfwm4/: configure, configure.ac, src/client.c, src/events.c,
+            themes/Makefile.am, themes/Makefile.in,
+            themes/default/bottom-active.xpm,
+            themes/default/bottom-inactive.xpm,
+            themes/default/bottom-left-active.xpm,
+            themes/default/bottom-left-inactive.xpm,
+            themes/default/bottom-right-active.xpm,
+            themes/default/bottom-right-inactive.xpm,
+            themes/default/left-active.xpm, themes/default/left-inactive.xpm,
+            themes/default/right-active.xpm, themes/default/right-inactive.xpm,
+            themes/default/themerc, themes/default/title-1-active.xpm,
+            themes/default/title-1-inactive.xpm,
+            themes/default/title-2-active.xpm,
+            themes/default/title-2-inactive.xpm,
+            themes/default/title-3-active.xpm,
+            themes/default/title-3-inactive.xpm,
+            themes/default/title-4-active.xpm,
+            themes/default/title-4-inactive.xpm,
+            themes/default/title-5-active.xpm,
+            themes/default/title-5-inactive.xpm,
+            themes/default/top-left-active.xpm,
+            themes/default/top-left-inactive.xpm,
+            themes/default/top-right-active.xpm,
+            themes/default/top-right-inactive.xpm,
+            themes/tgc-large/Makefile.am, themes/tgc-large/Makefile.in,
+            themes/tgc-large/README, themes/tgc-large/bottom-active.xpm,
+            themes/tgc-large/bottom-inactive.xpm,
+            themes/tgc-large/bottom-left-active.xpm,
+            themes/tgc-large/bottom-left-inactive.xpm,
+            themes/tgc-large/bottom-right-active.xpm,
+            themes/tgc-large/bottom-right-inactive.xpm,
+            themes/tgc-large/close-active.xpm,
+            themes/tgc-large/close-inactive.xpm,
+            themes/tgc-large/close-pressed.xpm,
+            themes/tgc-large/hide-active.xpm,
+            themes/tgc-large/hide-inactive.xpm,
+            themes/tgc-large/hide-pressed.xpm,
+            themes/tgc-large/left-active.xpm,
+            themes/tgc-large/left-inactive.xpm,
+            themes/tgc-large/maximize-active.xpm,
+            themes/tgc-large/maximize-inactive.xpm,
+            themes/tgc-large/maximize-pressed.xpm,
+            themes/tgc-large/maximize-toggled-active.xpm,
+            themes/tgc-large/maximize-toggled-inactive.xpm,
+            themes/tgc-large/maximize-toggled-pressed.xpm,
+            themes/tgc-large/menu-active.xpm,
+            themes/tgc-large/menu-inactive.xpm,
+            themes/tgc-large/menu-pressed.xpm,
+            themes/tgc-large/right-active.xpm,
+            themes/tgc-large/right-inactive.xpm,
+            themes/tgc-large/shade-active.xpm,
+            themes/tgc-large/shade-inactive.xpm,
+            themes/tgc-large/shade-pressed.xpm,
+            themes/tgc-large/shade-toggled-active.xpm,
+            themes/tgc-large/shade-toggled-inactive.xpm,
+            themes/tgc-large/shade-toggled-pressed.xpm,
+            themes/tgc-large/stick-active.xpm,
+            themes/tgc-large/stick-inactive.xpm,
+            themes/tgc-large/stick-pressed.xpm,
+            themes/tgc-large/stick-toggled-active.xpm,
+            themes/tgc-large/stick-toggled-inactive.xpm,
+            themes/tgc-large/stick-toggled-pressed.xpm,
+            themes/tgc-large/themerc, themes/tgc-large/title-1-active.xpm,
+            themes/tgc-large/title-1-inactive.xpm,
+            themes/tgc-large/title-2-active.xpm,
+            themes/tgc-large/title-2-inactive.xpm,
+            themes/tgc-large/title-3-active.xpm,
+            themes/tgc-large/title-3-inactive.xpm,
+            themes/tgc-large/title-4-active.xpm,
+            themes/tgc-large/title-4-inactive.xpm,
+            themes/tgc-large/title-5-active.xpm,
+            themes/tgc-large/title-5-inactive.xpm,
+            themes/tgc-large/top-left-active.xpm,
+            themes/tgc-large/top-left-inactive.xpm,
+            themes/tgc-large/top-right-active.xpm,
+            themes/tgc-large/top-right-inactive.xpm: Change default theme, keep
+            old 4.0 theme as default-4.0 and add tgc-large theme Include
+            improvements for fullscreen mode for gst from Arwed von Merkatz
+            <v.merkatz@gmx.net>
     
     +++
     
@@ -32802,9 +35039,9 @@ Date:   Wed Apr 9 20:41:23 2003 +0000
 
     Improved debug.m4:
     
-    	1) --disable-debug no longer disables assert()'s
-    	2) --enable-profiling now enables profiling code
-    	3) --disable-asserts allows disabling of assert()'s
+            1) --disable-debug no longer disables assert()'s
+            2) --enable-profiling now enables profiling code
+            3) --disable-asserts allows disabling of assert()'s
     
     
     (Old svn revision: 7245)
