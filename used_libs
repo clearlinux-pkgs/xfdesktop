@@ -1,7 +1,6 @@
 libX11.so.6
 libc.so.6
 libcairo.so.2
-libdbus-glib-1.so.2
 libexo-2.so.0
 libgarcon-1.so.0
 libgarcon-gtk3-1.so.0
