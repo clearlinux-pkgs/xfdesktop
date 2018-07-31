@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.13.2
-Release  : 18
+Release  : 19
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.2.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.2.tar.bz2
 Summary  : No detailed summary available
@@ -15,6 +15,7 @@ Requires: xfdesktop-data
 Requires: xfdesktop-license
 Requires: xfdesktop-locales
 Requires: xfdesktop-man
+BuildRequires : Thunar-dev
 BuildRequires : intltool
 BuildRequires : pkgconfig(cairo)
 BuildRequires : pkgconfig(egl)
@@ -35,7 +36,6 @@ BuildRequires : pkgconfig(libxfce4ui-2)
 BuildRequires : pkgconfig(libxfce4util-1.0)
 BuildRequires : pkgconfig(libxfconf-0)
 BuildRequires : pkgconfig(sm)
-BuildRequires : pkgconfig(thunarx-2)
 BuildRequires : sed
 Patch1: 0001-Set-default-wallpaper.patch
 
@@ -103,7 +103,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1533057785
+export SOURCE_DATE_EPOCH=1533059541
 export CFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
 export FCFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
 export FFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
@@ -119,7 +119,7 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make VERBOSE=1 V=1 %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1533057785
+export SOURCE_DATE_EPOCH=1533059541
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/doc/xfdesktop
 cp COPYING %{buildroot}/usr/share/doc/xfdesktop/COPYING
