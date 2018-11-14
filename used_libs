@@ -10,10 +10,11 @@ libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
 libgtk-3.so.0
+libnotify.so.4
 libpango-1.0.so.0
 libpthread.so.0
 libthunarx-3.so.0
 libwnck-3.so.0
 libxfce4ui-2.so.0
 libxfce4util.so.7
-libxfconf-0.so.2
+libxfconf-0.so.3

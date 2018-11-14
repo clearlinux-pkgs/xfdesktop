@@ -4,19 +4,20 @@
 #
 Name     : xfdesktop
 Version  : 4.13.2
-Release  : 19
+Release  : 20
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.2.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.2.tar.bz2
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : GPL-2.0
-Requires: xfdesktop-bin
-Requires: xfdesktop-data
-Requires: xfdesktop-license
-Requires: xfdesktop-locales
-Requires: xfdesktop-man
+Requires: xfdesktop-bin = %{version}-%{release}
+Requires: xfdesktop-data = %{version}-%{release}
+Requires: xfdesktop-license = %{version}-%{release}
+Requires: xfdesktop-locales = %{version}-%{release}
+Requires: xfdesktop-man = %{version}-%{release}
 BuildRequires : Thunar-dev
 BuildRequires : intltool
+BuildRequires : libnotify-dev
 BuildRequires : pkgconfig(cairo)
 BuildRequires : pkgconfig(egl)
 BuildRequires : pkgconfig(exo-1)
@@ -54,9 +55,9 @@ of the root window). The manager handles the following tasks:
 %package bin
 Summary: bin components for the xfdesktop package.
 Group: Binaries
-Requires: xfdesktop-data
-Requires: xfdesktop-license
-Requires: xfdesktop-man
+Requires: xfdesktop-data = %{version}-%{release}
+Requires: xfdesktop-license = %{version}-%{release}
+Requires: xfdesktop-man = %{version}-%{release}
 
 %description bin
 bin components for the xfdesktop package.
@@ -103,7 +104,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1533059541
+export SOURCE_DATE_EPOCH=1542225067
 export CFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
 export FCFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
 export FFLAGS="$CFLAGS -Os -fdata-sections -ffunction-sections -fno-semantic-interposition "
@@ -119,10 +120,10 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make VERBOSE=1 V=1 %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1533059541
+export SOURCE_DATE_EPOCH=1542225067
 rm -rf %{buildroot}
-mkdir -p %{buildroot}/usr/share/doc/xfdesktop
-cp COPYING %{buildroot}/usr/share/doc/xfdesktop/COPYING
+mkdir -p %{buildroot}/usr/share/package-licenses/xfdesktop
+cp COPYING %{buildroot}/usr/share/package-licenses/xfdesktop/COPYING
 %make_install
 %find_lang xfdesktop
 
@@ -153,11 +154,11 @@ cp COPYING %{buildroot}/usr/share/doc/xfdesktop/COPYING
 /usr/share/pixmaps/xfdesktop/xfdesktop-fallback-icon.png
 
 %files license
-%defattr(-,root,root,-)
-/usr/share/doc/xfdesktop/COPYING
+%defattr(0644,root,root,0755)
+/usr/share/package-licenses/xfdesktop/COPYING
 
 %files man
-%defattr(-,root,root,-)
+%defattr(0644,root,root,0755)
 /usr/share/man/man1/xfdesktop.1
 
 %files locales -f xfdesktop.lang
