@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.13.4
-Release  : 22
+Release  : 23
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.4.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.13/xfdesktop-4.13.4.tar.bz2
 Summary  : A desktop manager for Xfce
