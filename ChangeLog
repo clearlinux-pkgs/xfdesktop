@@ -1,3 +1,115 @@
+commit ad158f37ea5493710ecf834bbadbc65a8f28f7b3
+Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
+Date:   Tue Jul 23 18:34:14 2019 +0200
+
+    I18n: Update translation nb (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 59a320b9eec52533872886ea6421425b2a46abc7
+Author: Michael Martins <michaelfm21@gmail.com>
+Date:   Sat Jul 20 06:31:53 2019 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 645f19e29da6aa21ee94f8d433cdf327c200df61
+Author: Jiri Grönroos <jiri.gronroos@iki.fi>
+Date:   Wed Jul 17 12:36:31 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 0ece9c3b24ab188b88954e892b28b06faeabe2f4
+Author: Jiri Grönroos <jiri.gronroos@iki.fi>
+Date:   Wed Jul 17 00:36:57 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit fcb4137645839a26dd76bfabb4924074d85c2c8f
+Author: Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+Date:   Sun Jul 14 18:33:57 2019 +0200
+
+    I18n: Update translation kk (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit e55c5dc22340db06b67d85e045564879f7ceeefe
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jul 13 18:27:03 2019 -0300
+
+    Update copyright year
+
+commit a4ef926629070214fdc991df5cbb65498d647579
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jul 13 18:26:27 2019 -0300
+
+    Use https where possible
+
+commit 7328581b30410d7e29e68ee5d356d9627feaa544
+Author: Theo Linkspfeifer <lastonestanding@tutanota.com>
+Date:   Tue Jul 9 15:04:04 2019 +0200
+
+    Add padding to Window Actions menu entry (Bug #14628)
+
+commit 972a20af554f076ee06ec19128b8af2f094f09ac
+Author: Yarema aka Knedlyk <yupadmin@gmail.com>
+Date:   Wed Jul 10 00:33:34 2019 +0200
+
+    I18n: Update translation uk (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 58bf697484a75f7bf47002912d532a958a75ef1f
+Author: Romain Bouvier <skunnyk@alteroot.org>
+Date:   Mon Jul 8 11:20:32 2019 -0300
+
+    Display correct icon size of minimized apps (Bug #8951)
+
+commit 94233b63b7af1f79de7ee2e12d4c31ee81a52c42
+Author: Theo Linkspfeifer <lastonestanding@tutanota.com>
+Date:   Fri Jul 5 00:12:53 2019 +0200
+
+    Reorder checkboxes in Settings UI
+
+commit 45927c349e2192c711fef8f452005f9893ac1382
+Author: Andre Miranda <andre42m@gmail.com>
+Date:   Sun Jun 30 06:35:25 2019 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 2522bae647ae6ac9091464f652d826555afb81a9
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jun 29 23:31:25 2019 -0300
+
+    Back to development
+
+commit ca86e9014e645f1fb1d4540c8abe8bc8d62b2004
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jun 29 23:30:06 2019 -0300
+
+    Updates for release
+
 commit dd66024e2a7d864110473134e21fa3e080020f27
 Author: Emanuele Petriglia <transifex@emanuelepetriglia.com>
 Date:   Sat Jun 29 18:33:17 2019 +0200
