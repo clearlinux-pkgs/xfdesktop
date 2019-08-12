@@ -1,3 +1,27 @@
+commit 9b5d4da286d93177f5cd5133c4ee94cb5d85feb0
+Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
+Date:   Mon Aug 12 02:39:51 2019 +0200
+
+    Fix typo
+
+commit 015951a236d96aabc8fdb343af8f97edbf101026
+Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
+Date:   Mon Aug 12 02:34:02 2019 +0200
+
+    Ensure the new default wallpaper gets installed
+
+commit 1cec8e8b4f82a08a9a9984cd72d97e817089a571
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Aug 11 16:35:15 2019 -0400
+
+    Back to development
+
+commit c683408248bf0d0ba7e4fed1129a34ae44f1e36c
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Aug 11 16:33:31 2019 -0400
+
+    Updates for release
+
 commit 5c62fd6bb52ded66dced8406fd947fa3972153ba
 Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
 Date:   Sun Aug 11 22:20:51 2019 +0200
