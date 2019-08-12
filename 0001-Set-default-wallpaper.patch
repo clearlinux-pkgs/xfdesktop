@@ -16,11 +16,11 @@ index d1a2745..d8f068f 100644
  #include <stdarg.h>
  
  #define XFDESKTOP_CHANNEL        "xfce4-desktop"
--#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-teal.jpg"
+-#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-stripes.png"
 +#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/wallpaper_4K_01.jpg"
  #define DEFAULT_ICON_FONT_SIZE   12
  #define DEFAULT_ICON_SIZE        48
- #define ITHEME_FLAGS             (GTK_ICON_LOOKUP_USE_BUILTIN \
+ #define ITHEME_FLAGS             (GTK_ICON_LOOKUP_USE_BUILTIN)
 -- 
 1.9.1
 

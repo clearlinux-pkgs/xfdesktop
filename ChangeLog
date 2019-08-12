@@ -1,3 +1,103 @@
+commit 5c62fd6bb52ded66dced8406fd947fa3972153ba
+Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
+Date:   Sun Aug 11 22:20:51 2019 +0200
+
+    Add 4.14 wallpaper and set it as default
+
+commit 80efa0fd4d6b87aba2302663920bd3a808446698
+Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
+Date:   Sun Aug 11 12:34:54 2019 +0200
+
+    I18n: Update translation nb (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 3e21e30eb4ed094105037cda9a46144bd8ca07e0
+Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
+Date:   Sun Aug 11 06:32:19 2019 +0200
+
+    I18n: Update translation nb (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 7bcd4be48a182b6fe95f2b013193af9ef26c36db
+Author: Nuno Miguel <nunomgue@gmail.com>
+Date:   Thu Aug 8 18:36:08 2019 +0200
+
+    I18n: Update translation pt (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 4cd886dd1074032573325eb36399d73c907df01f
+Author: Emanuele Petriglia <transifex@emanuelepetriglia.com>
+Date:   Thu Aug 8 18:36:08 2019 +0200
+
+    I18n: Update translation it (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 74cea89596fb54078731f1eadd3d9f3a5d46df96
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Mon Aug 5 12:32:29 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit d5ca3d9f450fb88cce5030160c83f3a6e4033d88
+Author: Michael Martins <michaelfm21@gmail.com>
+Date:   Fri Aug 2 06:33:15 2019 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    245 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit e1826a58111f2af7734562e6713a531f54427571
+Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
+Date:   Thu Aug 1 00:34:02 2019 +0200
+
+    Replace GtkStock buttons
+
+commit fa7231d814039b67a278dd529a7ba2fa2002bddc
+Author: Kevin Brubeck Unhammer <unhammer+dill@mm.st>
+Date:   Wed Jul 31 12:33:29 2019 +0200
+
+    I18n: Update translation nn (100%).
+    
+    244 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 5e36bfed4e726710946c8edf32d47fed469aa2e2
+Author: Theo Linkspfeifer <lastonestanding@tutanota.com>
+Date:   Sat Jul 27 14:11:00 2019 +0200
+
+    Do not query file information again (Bug #15460)
+
+commit fb5e4804acfa09293a4eb96ef77f37f639c0cd90
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sun Jul 28 12:21:22 2019 -0300
+
+    Back to development
+
+commit 91ac32630fc2742bd36ab859ec982cc1c2772cce
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sun Jul 28 12:17:11 2019 -0300
+
+    Updates for release
+
 commit ad158f37ea5493710ecf834bbadbc65a8f28f7b3
 Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
 Date:   Tue Jul 23 18:34:14 2019 +0200
