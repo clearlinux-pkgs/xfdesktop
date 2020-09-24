@@ -4,7 +4,7 @@
 #
 Name     : xfdesktop
 Version  : 4.15.0
-Release  : 29
+Release  : 30
 URL      : http://archive.xfce.org/src/xfce/xfdesktop/4.15/xfdesktop-4.15.0.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/xfdesktop/4.15/xfdesktop-4.15.0.tar.bz2
 Summary  : No detailed summary available
