@@ -1,4 +1,4 @@
-From 6e76bf993623d7862805f04ea5de5f1d6c2fc27b Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Ikey Doherty <michael.i.doherty@intel.com>
 Date: Tue, 19 May 2015 14:37:14 +0100
 Subject: [PATCH] Set default wallpaper
@@ -9,18 +9,15 @@ Signed-off-by: Ikey Doherty <michael.i.doherty@intel.com>
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/common/xfdesktop-common.h b/common/xfdesktop-common.h
-index d1a2745..d8f068f 100644
+index ae9f5f8..d3de6e4 100644
 --- a/common/xfdesktop-common.h
 +++ b/common/xfdesktop-common.h
 @@ -35,7 +35,7 @@
  #include <stdarg.h>
  
  #define XFDESKTOP_CHANNEL        "xfce4-desktop"
--#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-stripes.png"
+-#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-verticals.png"
 +#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/wallpaper_4K_01.jpg"
  #define DEFAULT_ICON_FONT_SIZE   12
  #define DEFAULT_ICON_SIZE        48
  #define ITHEME_FLAGS             (GTK_ICON_LOOKUP_USE_BUILTIN)
--- 
-1.9.1
-
