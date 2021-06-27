@@ -5,8 +5,8 @@
 Name     : xfdesktop
 Version  : 4.16.0
 Release  : 32
-URL      : https://archive.xfce.org/xfce/4.16/src/xfdesktop-4.16.0.tar.bz2
-Source0  : https://archive.xfce.org/xfce/4.16/src/xfdesktop-4.16.0.tar.bz2
+URL      : https://archive.xfce.org/src/xfce/xfdesktop/4.16/xfdesktop-4.16.0.tar.bz2
+Source0  : https://archive.xfce.org/src/xfce/xfdesktop/4.16/xfdesktop-4.16.0.tar.bz2
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : GPL-2.0
