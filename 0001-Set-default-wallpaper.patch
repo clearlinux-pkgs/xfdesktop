@@ -9,14 +9,14 @@ Signed-off-by: Ikey Doherty <michael.i.doherty@intel.com>
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/common/xfdesktop-common.h b/common/xfdesktop-common.h
-index ae9f5f8..d3de6e4 100644
+index 4e1a52e..66e8140 100644
 --- a/common/xfdesktop-common.h
 +++ b/common/xfdesktop-common.h
 @@ -35,7 +35,7 @@
  #include <stdarg.h>
  
  #define XFDESKTOP_CHANNEL        "xfce4-desktop"
--#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-verticals.png"
+-#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/xfce-shapes.svg"
 +#define DEFAULT_BACKDROP         DATADIR "/backgrounds/xfce/wallpaper_4K_01.jpg"
  #define DEFAULT_ICON_FONT_SIZE   12
  #define DEFAULT_ICON_SIZE        48
